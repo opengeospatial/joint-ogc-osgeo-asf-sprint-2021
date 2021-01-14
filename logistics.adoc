@@ -1,0 +1,53 @@
+== Sprint Logistics
+
+*Main Meeting Room*
+
+** Gotomeeting TBA
+
+*OGC Breakout Rooms*
+
+SWGs can spin their own channel.
+
+* https://meet.jit.si/OGC-API-Features
+* https://meet.jit.si/OGC-API-EDR
+* https://meet.jit.si/OGC-API-Common
+* https://meet.jit.si/OGC-API-Processes
+* https://meet.jit.si/OGC-API-Tiles
+* https://meet.jit.si/OGC-API-Records
+* https://meet.jit.si/OGC-API-Maps
+* https://meet.jit.si/OGC-API-Coverages
+* https://meet.jit.si/OGC-API-Styles
+* https://meet.jit.si/OGC-API-Routes
+
+
+*OSGeo Breakout Rooms*
+
+* https://meet.jit.si/tosprint (Lobby channel for free discussion)
+* https://meet.jit.si/OSGeo (generic OSGeo channel)
+* https://meet.jit.si/OSGeoBoard (Board sprint room)
+* https://meet.jit.si/GDAL
+* https://meet.jit.si/QGIS
+* https://meet.jit.si/PostGIS
+* https://meet.jit.si/GEOS
+* https://meet.jit.si/GeoServer
+* https://meet.jit.si/MapServer
+* https://meet.jit.si/GRASS
+* https://meet.jit.si/OSGeoLive
+* https://meet.jit.si/geopython (channel for pycsw, pygeoapi, pygeometa, GeoNode, OWSLib, GeoHealthCheck, MapProxy development, other geopython projects are welcome)
+* https://open.meet.garr.it/OSGeo_Virtual_Community_Sprint_Italian_Translation (Italian community for translation)
+* https://meet.jit.si/EOEPCA (meeting room for ESA EOEPCA project participating in the code sprint)
+* https://meet.jit.si/pgrouting and https://gitter.im/pgRouting/pgrouting will be used for written communication.
+* https://meet.jit.si/GeoNode
+
+*ASF Breakout Rooms*
+
+* https://meet.jit.si/sis
+* https://meet.jit.si/jena
+
+*GitHub*
+
+* Public repo https://github.com/opengeospatial/joint-ogc-osgeo-asf-sprint-2021
+
+*Gitter*
+
+* https://gitter.im/opengeospatial/joint-ogc-osgeo-asf-sprint-2021

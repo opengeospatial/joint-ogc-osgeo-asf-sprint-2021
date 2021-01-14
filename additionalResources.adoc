@@ -1,0 +1,17 @@
+== Additional Resources
+
+=== OS Open Zoomstack
+
+Sprint participants are encouraged to use *OS Open Zoomstack*, a comprehensive basemap of Great Britain showing coverage from national level right down to street detail.
+
+https://os.uk/business-government/products/open-zoomstack
+
+=== Other OGC sprints and hackathons
+
+A list of *previous and future OGC sprints and hackathons* is available at https://www.ogc.org/projects/initiatives/ogcsprints
+
+=== Other OGC API resources
+
+OGC API website, https://ogcapi.ogc.org
+
+Blog posts about previous sprints, https://ogcapi.ogc.org/#blogs

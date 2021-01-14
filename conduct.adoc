@@ -1,0 +1,7 @@
+# Code of Conduct
+
+The following codes of conduct apply to this sprint.
+
+* [OGC](https://www.ogc.org/ogc/policies/conduct)
+* [OSGeo](https://www.osgeo.org/code_of_conduct/)
+* [ASF](https://www.apache.org/foundation/policies/conduct)

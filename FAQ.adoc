@@ -1,0 +1,9 @@
+== Frequently Asked Questions (FAQs)
+
+*Q: What is a code sprint?*
+
+A: A Code Sprint is a collaborative and inclusive event driven by innovative and rapid programming with minimal process and organization constraints to support the development of new applications and candidate standards.
+
+*Q: Where can I find the OpenAPI definition documents of the OGC APIs?*
+
+A: The API definitions can be accessed through the https://ogcapi.ogc.org/#standards[OGC API website]. Click on the 'More info' button to see information about each OGC API.

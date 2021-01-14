@@ -1,0 +1,14 @@
+== API Specs
+
+* OpenAPI https://github.com/OAI/OpenAPI-Specification/blob/master/versions/3.0.1.md
+* OGC API - Features https://ogcapi.ogc.org/features
+* OGC API - Coverages https://ogcapi.ogc.org/coverages
+* OGC API - Maps https://ogcapi.ogc.org/maps
+* OGC API - Tiles https://ogcapi.ogc.org/tiles
+* OGC API - Processes https://ogcapi.ogc.org/processes
+* OGC API - Styles https://ogcapi.ogc.org/styles
+* OGC API - Common https://ogcapi.ogc.org/common
+* OGC API - Records https://ogcapi.ogc.org/records
+* OGC API - Environmental Data Retrieval https://ogcapi.ogc.org/edr
+* OGC SensorThings API https://www.ogc.org/standards/sensorthings
+* GeoAPI https://www.ogc.org/standards/geoapi
