@@ -10,7 +10,7 @@ This Github repository is for the 2021 Joint OGC OSGeo ASF Code Sprint.
 About the Code Sprint
 ----------------
 
-The Open Geospatial Consortium (OGC), Open Source Geospatial Foundation (OSGeo), and the Apache Software Foundation (ASF) invite software developers to a joint Virtual Code Sprint from #D1# to #D3# February 2021. The sprint will begin at 09:00am EST on the first day, and end at 05:30pm EST on the last day.
+The Open Geospatial Consortium (OGC), Open Source Geospatial Foundation (OSGeo), and the Apache Software Foundation (ASF) invite software developers to a joint Virtual Code Sprint from #D1# to #D3# February 2021. The sprint will begin at 07:00am EST on the first day, and end at 05:30pm EST on the last day.
 
 Registration for the Code Sprint is #here#.
 

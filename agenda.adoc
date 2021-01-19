@@ -15,17 +15,19 @@ All times on the agenda are in UTC-5/EST (Washington D.C. time).
 |10 minutes | Overview of participating ASF standards working groups | ASF representative
 |20 minutes |Questions & Answers|
 3+|*17th February 2021*
-|09:00-09:05 |Welcome & objectives &#10036; | OGC, OSGeo and ASF representatives
-|09:05-09:10 |Sprint programme & way of working &#10036; |
-|09:10-09:20 |Sprint goals for OGC standards working groups | OGC representative(s)
-|09:20-09:30 |Sprint goals for OSGeo standards working groups | OSGeo representative(s)
-|09:30-09:40 |Sprint goals for ASF standards working groups | ASF representative(s)
-|09:40-10:00 |Questions and Answers &#10036;|
-|10:00-13:00 |Practical work in break-out rooms|
+|07:00-07:05 |Welcome & objectives &#10036; | OGC, OSGeo and ASF representatives
+|07:05-07:10 |Sprint programme & way of working &#10036; |
+|07:10-07:20 |Sprint goals for OGC standards working groups &#10036;| OGC representative(s)
+|07:20-07:30 |Sprint goals for OSGeo standards working groups &#10036;| OSGeo representative(s)
+|07:30-07:40 |Sprint goals for ASF standards working groups &#10036;| ASF representative(s)
+|07:40-08:00 |Questions and Answers &#10036;|
+|08:00-09:00 |5-minute pitch by each project or working group &#10036;|
+|09:00-13:00 |Practical work in break-out rooms|
 |Break| |
 |13:30-16:30 |Practical work in break-out rooms|
 |16:30-17:30 |Daily brief back &#10036;|
 3+|*18th February 2021*
+|07:00-09:00 |Practical work in break-out rooms|
 |09:00-10:00 |a short stand-up and preliminary demonstration &#10036; |
 |10:00-12:30 |Practical work in break-out rooms|
 |12:30-13:00 |Issues / concerns &#10036;|
@@ -33,6 +35,7 @@ All times on the agenda are in UTC-5/EST (Washington D.C. time).
 |13:30-16:30 |Practical work in break-out rooms|
 |16:30-17:30 |Daily brief back &#10036;|
 3+|*19th February 2021*
+|07:00-09:00 |Practical work in break-out rooms|
 |09:00-10:00 |a short stand-up and preliminary demonstration &#10036; |
 |10:00-12:30 |Practical work in break-out rooms|
 |12:30-13:00 |Issues / concerns &#10036;|
@@ -41,5 +44,5 @@ All times on the agenda are in UTC-5/EST (Washington D.C. time).
 |15:30-16:30
 a|Demonstration &#10036;
 |Facilitator: Gobe
-|16:30-17:00 |Wrap-up: immediate lessons, next steps, thanks and goodbyes &#10036; | OGC, OSGeo and ASF representatives
+|16:30-17:30 |Wrap-up: immediate lessons, next steps, thanks and goodbyes &#10036; | OGC, OSGeo and ASF representatives
 |===
