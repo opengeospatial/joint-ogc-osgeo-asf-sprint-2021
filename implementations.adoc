@@ -1,0 +1,71 @@
+== Implementations
+
+=== Documentation
+
+[#table_documentation,reftext='{table-caption} {counter:table-num}']
+.Documentation
+[cols=",,",width="75%",options="header",align="center"]
+|===
+|Implementation | Type | Contact
+
+| TBA
+| TBA
+| TBA
+
+| TBA
+| TBA
+| TBA
+|===
+
+=== Server-side implementations
+
+[#table_implementation,reftext='{table-caption} {counter:table-num}']
+.Service implementations
+[cols=",,",width="75%",options="header",align="center"]
+|===
+|Implementation | Type | Contact
+
+| https://services.interactive-instruments.de/t15/daraa[interative instruments's ldproxy]
+| OGC API - Features
+| https://github.com/cportele[Clemens Portele]
+
+| TBA
+| TBA
+| TBA
+
+| TBA
+| TBA
+| TBA
+|===
+
+
+=== Client-side implementations
+
+[#table_implementation,reftext='{table-caption} {counter:table-num}']
+.Client implementations
+[cols=",,",width="75%",options="header",align="center"]
+|===
+|Implementation | Type | Contact
+
+| TBA
+| TBA
+| TBA
+
+| TBA
+| TBA
+| TBA
+|===
+
+=== Executable Test Suite
+
+[#table_documentation,reftext='{table-caption} {counter:table-num}']
+.Documentation
+[cols=",,",width="75%",options="header",align="center"]
+|===
+|Implementation | Type | Contact
+
+| https://github.com/opengeospatial/ets-ogcapi-edr10[ETS for the OGC API - Environmental Data Retrieval candidate standard]
+| Executable Test Suite
+| https://github.com/ghobona[Gobe Hobona]
+
+|===
