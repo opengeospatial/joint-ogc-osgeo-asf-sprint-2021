@@ -43,6 +43,6 @@ All times on the agenda are in UTC-5/EST (Washington D.C. time).
 |13:30-15:30 |Practical work in break-out rooms|
 |15:30-16:30
 a|Demonstration &#10036;
-|Facilitator: Gobe
+|
 |16:30-17:30 |Wrap-up: immediate lessons, next steps, thanks and goodbyes &#10036; | OGC, OSGeo and ASF representatives
 |===
