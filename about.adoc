@@ -4,4 +4,4 @@ The goal of the code sprint is to advance support of open geospatial standards w
 
 There will be an opportunity for joint discussion with other participants, as well as daily briefings from each project and working group. However, the majority of the time will be spent in collaboration between participants in active coding.
 
-More information and a registration form for all of the sprints can be found at #here#
+More information and a registration form for all of the sprints can be found at https://portal.ogc.org/public_ogc/register/20210217_code_sprint.php
