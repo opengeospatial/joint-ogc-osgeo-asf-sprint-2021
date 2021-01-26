@@ -12,14 +12,14 @@ About the Code Sprint
 
 The Open Geospatial Consortium (OGC), Open Source Geospatial Foundation (OSGeo), and the Apache Software Foundation (ASF) invite software developers to a joint Virtual Code Sprint on the 17th, 18th and 19th of February 2021. The sprint will begin at 07:00am EST on the first day, and end at 05:30pm EST on the last day.
 
-Registration for the Code Sprint is https://portal.ogc.org/public_ogc/register/20210217_code_sprint.php
+Register at https://portal.ogc.org/public_ogc/register/20210217_code_sprint.php
 
 A Code Sprint is a collaborative and inclusive event driven by innovative and rapid programming with minimal process and organization constraints to support the development of new applications and candidate standards.
 
 The goal of the code sprint is to advance support of open geospatial standards within the developer community, whilst also advancing the standards themselves. Therefore, the code sprint will enable software developers to focus on projects that implement open geospatial standards for a period of three days. The code sprint will cover multiple ASF, OSGeo projects and OGC standards - including **OGC API** standards. All OGC, OSGeo and ASF projects and working groups are invited to participate. This Sprint is open to all participants, even if you are not active members or contributors to the efforts of the hosting organizations.
 
 
-Register at https://portal.ogc.org/public_ogc/register/20210217_code_sprint.php
+
 
 
 * [Sprint Description](./about.adoc)
