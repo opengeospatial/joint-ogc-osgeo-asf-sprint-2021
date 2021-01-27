@@ -4,6 +4,8 @@ All times on the agenda are in UTC-5/EST (Washington D.C. time).
 
 &#10036; means that the session will be in the main Gotomeeting virtual room.
 
+Meeting rooms are listed at on the https://github.com/opengeospatial/joint-ogc-osgeo-asf-sprint-2021/blob/master/logistics.adoc[Sprint Logistics] page.
+
 [cols="3,7,7a",options="header",]
 |===
 |*Time* (EST) |*What* |*Lead*
