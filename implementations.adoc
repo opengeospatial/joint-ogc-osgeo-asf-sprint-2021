@@ -25,8 +25,8 @@
 |===
 |Implementation | Type | Contact
 
-| https://services.interactive-instruments.de/t15/daraa[interative instruments's ldproxy]
-| OGC API - Features
+| https://demo.ldproxy.net/[interactive instruments's ldproxy] (https://demo.ldproxy.net/daraa[Daraa dataset], https://demo.ldproxy.net/vineyards[Vineyards dataset])
+| OGC API - Features/Tiles/Styles
 | https://github.com/cportele[Clemens Portele]
 
 | TBA
