@@ -13,15 +13,15 @@ Meeting rooms are listed at on the https://github.com/opengeospatial/joint-ogc-o
 |5 minutes | Welcome Remarks | OGC, OSGeo and ASF representatives
 |5 minutes | Sponsor Remarks | Sponsor representative
 |10 minutes | Overview of participating OGC standards working groups | OGC representative
-|10 minutes | Overview of participating OSGeo standards working groups | OSGeo representative
-|10 minutes | Overview of participating ASF standards working groups | ASF representative
+|10 minutes | Overview of participating OSGeo projects | OSGeo representative
+|10 minutes | Overview of participating ASF projects | ASF representative
 |20 minutes |Questions & Answers|
 3+|*17th February 2021*
 |07:00-07:05 |Welcome & objectives &#10036; | OGC, OSGeo and ASF representatives
 |07:05-07:10 |Sprint programme & way of working &#10036; |
 |07:10-07:20 |Sprint goals for OGC standards working groups &#10036;| OGC representative(s)
-|07:20-07:30 |Sprint goals for OSGeo standards working groups &#10036;| OSGeo representative(s)
-|07:30-07:40 |Sprint goals for ASF standards working groups &#10036;| ASF representative(s)
+|07:20-07:30 |Sprint goals for OSGeo projects &#10036;| OSGeo representative(s)
+|07:30-07:40 |Sprint goals for ASF projects &#10036;| ASF representative(s)
 |07:40-08:00 |Questions and Answers &#10036;|
 |08:00-09:00 |5-minute pitch by each project or working group &#10036;|
 |09:00-13:00 |Practical work in break-out rooms|
