@@ -30,6 +30,7 @@ SWGs can spin their own channel.
 * https://meet.jit.si/PostGIS
 * https://meet.jit.si/GEOS
 * https://meet.jit.si/GeoServer
+* https://meet.jit.si/MapML
 * https://meet.jit.si/MapServer
 * https://meet.jit.si/GRASS
 * https://meet.jit.si/OSGeoLive
