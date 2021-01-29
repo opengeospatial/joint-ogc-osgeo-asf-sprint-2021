@@ -35,7 +35,7 @@
 
 | https://apps.titellus.net/ogcapi/[GeoNetwork] - https://github.com/geonetwork/geonetwork-microservices[git]
 | OGC API - Records
-| https://github.com/pvgenuchten[Paul van Genuchten]
+| https://github.com/fxprunayre[François Prunayre]
 
 
 | TBA
