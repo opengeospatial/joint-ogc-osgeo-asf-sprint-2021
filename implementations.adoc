@@ -29,9 +29,14 @@
 | OGC API - Features/Tiles/Styles
 | https://github.com/cportele[Clemens Portele]
 
-| TBA
-| TBA
-| TBA
+| https://demo.pygeoapi.io/master[pygeoapi demo] - https://github.com/geopython/pygeoapi[git]
+| OGC API - Features/Tiles/Processes/Records/STAC/Coverages
+| https://github.com/tomkralidis[Tom Kralidis]
+
+| https://apps.titellus.net/ogcapi/[GeoNetwork] - https://github.com/geonetwork/geonetwork-microservices[git]
+| OGC API - Records
+| https://github.com/fxprunayre[François Prunayre]
+
 
 | TBA
 | TBA
