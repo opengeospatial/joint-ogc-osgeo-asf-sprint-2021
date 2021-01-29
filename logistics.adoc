@@ -43,8 +43,9 @@ SWGs can spin their own channel.
 
 *ASF Breakout Rooms*
 
-* https://meet.jit.si/sis
-* https://meet.jit.si/jena
+* https://meet.jit.si/apache-sis
+* https://meet.jit.si/apache-jena
+* https://meet.jit.si/apache-superset
 
 *GitHub*
 
