@@ -6,6 +6,12 @@ This Github repository is for the 2021 Joint OGC OSGeo ASF Code Sprint.
 
 [#OGCAPI](https://twitter.com/hashtag/OGCAPI)
 
+The Sprint is sponsored by
+------------
+
+*Gold Sponsor*
+
+[<img src="https://www.ordnancesurvey.co.uk/blog/wp-content/uploads/2018/08/os-logo.png" width="200"/>](https://www.ordnancesurvey.co.uk/s)
 
 About the Code Sprint
 ----------------
