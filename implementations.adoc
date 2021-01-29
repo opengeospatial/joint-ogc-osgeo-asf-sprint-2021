@@ -29,13 +29,13 @@
 | OGC API - Features/Tiles/Styles
 | https://github.com/cportele[Clemens Portele]
 
-| [pygeoapi demo](https://demo.pygeoapi.io/master) [git](https://github.com/geopython/pygeoapi)
+| https://demo.pygeoapi.io/master[pygeoapi demo] - https://github.com/geopython/pygeoapi[git]
 | OGC API - Features/Tiles/Processes/Records/STAC/Coverages
-| [https://github.com/tomkralidis[Tom Kralidis]
+| https://github.com/tomkralidis[Tom Kralidis]
 
-| [GeoNetwork](https://apps.titellus.net/ogcapi/) [git](https://github.com/geonetwork/geonetwork-microservices)
+| https://apps.titellus.net/ogcapi/[GeoNetwork] - https://github.com/geonetwork/geonetwork-microservices[git]
 | OGC API - Records
-| [Paul van Genuchten](https://github.com/pvgenuchten) 
+| https://github.com/pvgenuchten[Paul van Genuchten]
 
 
 | TBA
