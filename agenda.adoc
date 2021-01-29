@@ -10,10 +10,10 @@ Meeting rooms are listed at on the https://github.com/opengeospatial/joint-ogc-o
 |===
 |*Time* (EST) |*What* |*Lead*
 3+|*Webinar (GotoMeeting) 12th February 2021 at 10:00*
-|5 minutes | Welcome Remarks | OGC, OSGeo and ASF representatives
+|5 minutes | Welcome Remarks | Gobe Hobona (OGC), Angelos Tzotsos (OSGeo) and ASF representatives
 |5 minutes | Sponsor Remarks | Sponsor representative
-|10 minutes | Overview of participating OGC standards working groups | OGC representative
-|10 minutes | Overview of participating OSGeo projects | OSGeo representative
+|10 minutes | Overview of participating OGC standards working groups | Gobe Hobona (OGC)
+|10 minutes | Overview of participating OSGeo projects | Angelos Tzotsos (OSGeo)
 |10 minutes | Overview of participating ASF projects | ASF representative
 |20 minutes |Questions & Answers|
 3+|*17th February 2021*
