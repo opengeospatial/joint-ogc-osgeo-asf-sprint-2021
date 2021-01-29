@@ -17,10 +17,10 @@ Meeting rooms are listed at on the https://github.com/opengeospatial/joint-ogc-o
 |10 minutes | Overview of participating ASF projects | ASF representative
 |20 minutes |Questions & Answers|
 3+|*17th February 2021*
-|07:00-07:05 |Welcome & objectives &#10036; | OGC, OSGeo and ASF representatives
+|07:00-07:05 |Welcome & objectives &#10036; | Gobe Hobona (OGC), Angelos Tzotsos (OSGeo) and ASF representatives
 |07:05-07:10 |Sprint programme & way of working &#10036; |
-|07:10-07:20 |Sprint goals for OGC standards working groups &#10036;| OGC representative(s)
-|07:20-07:30 |Sprint goals for OSGeo projects &#10036;| OSGeo representative(s)
+|07:10-07:20 |Sprint goals for OGC standards working groups &#10036;| Gobe Hobona (OGC)
+|07:20-07:30 |Sprint goals for OSGeo projects &#10036;| Angelos Tzotsos (OSGeo)
 |07:30-07:40 |Sprint goals for ASF projects &#10036;| ASF representative(s)
 |07:40-08:00 |Questions and Answers &#10036;|
 |08:00-09:00 |5-minute pitch by each project or working group &#10036;|
@@ -46,5 +46,5 @@ Meeting rooms are listed at on the https://github.com/opengeospatial/joint-ogc-o
 |15:30-16:30
 a|Demonstration &#10036;
 |
-|16:30-17:30 |Wrap-up: immediate lessons, next steps, thanks and goodbyes &#10036; | OGC, OSGeo and ASF representatives
+|16:30-17:30 |Wrap-up: immediate lessons, next steps, thanks and goodbyes &#10036; | Gobe Hobona (OGC), Angelos Tzotsos (OSGeo) and ASF representatives
 |===
