@@ -4,6 +4,7 @@
 
 This Github repository is for the 2021 Joint OGC OSGeo ASF Code Sprint.
 
+[![Join the chat at https://gitter.im/opengeospatial/joint-ogc-osgeo-asf-sprint-2021](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/opengeospatial/joint-ogc-osgeo-asf-sprint-2021)
 [#OGCAPI](https://twitter.com/hashtag/OGCAPI)
 
 The Sprint is sponsored by
