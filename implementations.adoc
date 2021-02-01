@@ -37,6 +37,13 @@
 | OGC API - Records
 | https://github.com/fxprunayre[François Prunayre]
 
+| http://cloudsdi.geo-solutions.it/geoserver/wfs3[GeoServer] -  https://github.com/geoserver/geoserver/tree/master/src/community/ogcapi[git]
+| OGC API - Features/Styles/Tiles
+|
+
+| https://blog.qgis.org/2019/11/26/qgis-server-is-ready-for-the-new-ogc-api-for-features-protocol[QGIS server]
+| OGC API - Features
+| 
 
 | TBA
 | TBA
@@ -52,9 +59,13 @@
 |===
 |Implementation | Type | Contact
 
-| TBA
-| TBA
-| TBA
+| https://gdal.org/drivers/vector/oapif.html[GDAL/OGR]
+| OGC API - Features, Maps, Tiles, Coverages
+| 
+
+| https://docs.qgis.org/testing/en/docs/user_manual/working_with_ogc/ogc_client_support.html?highlight=wfs3#wfs-and-wfs-t-client[qgis] - https://github.com/qgis/QGIS/blob/master/src/providers/wfs/qgsoapifprovider.cpp[git]
+| OGC API - Features
+| 
 
 | TBA
 | TBA
