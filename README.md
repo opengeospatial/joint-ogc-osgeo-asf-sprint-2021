@@ -13,7 +13,7 @@ The Sprint is sponsored by
 <table>
 <tr>
 <td>
-<span style="color: gold;">**Gold Sponsor**</span>
+<span style="color:black;font-weight:bold">Gold Sponsor</span>
 
 [<img src="https://www.ordnancesurvey.co.uk/blog/wp-content/uploads/2018/08/os-logo.png" width="200"/>](https://www.ordnancesurvey.co.uk/s)
 </td>
