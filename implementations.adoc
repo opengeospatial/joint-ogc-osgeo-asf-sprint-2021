@@ -67,6 +67,10 @@
 | OGC API - Features
 | 
 
+| https://geopython.github.io/OWSLib/#ogc-api[OWSLib] - https://github.com/geopython/OWSLib/tree/master/owslib/ogcapi[git]
+| OGC API - Features, OGC API - Coverages, OGC API - Records
+|
+
 | TBA
 | TBA
 | TBA
