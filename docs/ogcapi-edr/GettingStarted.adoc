@@ -1,4 +1,4 @@
-== Getting Started with the OGC's Environmental Data Retrieval API
+== Getting Started with the OGC API - Environmental Data Retrieval Candidate Standard
 
 TBA
 
