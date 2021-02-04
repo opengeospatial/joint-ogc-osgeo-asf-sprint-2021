@@ -1,0 +1,16 @@
+== Getting Started with the OGC's Environmental Data Retrieval API
+
+TBA
+
+=== Introduction
+
+TBA
+
+=== Basics
+
+TBA
+
+=== Advanced
+
+
+TBA
