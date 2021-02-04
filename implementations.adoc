@@ -45,9 +45,9 @@
 | OGC API - Features
 | 
 
-| TBA
-| TBA
-| TBA
+| https://data-api-mdl.nws.noaa.gov/EDR-API[NOAA NWS EDR-API prototype implementation] 
+| OGC API - EDR
+| https://github.com/ShaneMill1[Shane Mill]
 |===
 
 
