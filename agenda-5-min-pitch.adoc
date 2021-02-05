@@ -8,11 +8,11 @@ The presentations will be arranged in alphabetical sequence.
 * Apache Superset
 * CDB
 * DGGS SWG
-* GeoAPI, CRS
+* GeoAPI  SWG
 * GeoHealthCheck
 * GeoNetwork
 * GeoNode
-* GeoPackage
+* GeoPackage SWG
 * GeoTrellis
 * GeoXACML SWG
 * Hydrology Domain working Group
@@ -20,14 +20,14 @@ The presentations will be arranged in alphabetical sequence.
 * mapproxy
 * MapServer
 * MobilityDB
-* OGC API - Common
+* OGC API - Common SWG
 * OGC API - Coverages SWG
 * OGC API - Features SWG
 * OGC API - Maps SWG
 * OGC API - Processes
 * OGC API - Records SWG
-* OGC API - Styles
-* OGC API - Tiles
+* OGC API - Styles SWG
+* OGC API - Tiles SWG
 * OSGeoLive
 * OWSLib
 * pdal
