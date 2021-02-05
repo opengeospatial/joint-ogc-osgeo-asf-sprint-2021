@@ -2,7 +2,9 @@
 
 Each working group or project will present a maximum 3 slides, to be presented in 5 minutes.
 
-The presentations will be arranged in alphabetical sequence.
+The presentations will be arranged in alphabetical sequence. The list has been extracted from the Registration list.
+
+NOTE: The list is only to be modified by the sprint organizers.
 
 * Apache SIS
 * Apache Superset
