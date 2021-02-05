@@ -23,7 +23,7 @@ Meeting rooms are listed at on the https://github.com/opengeospatial/joint-ogc-o
 |07:20-07:30 |Sprint goals for OSGeo projects &#10036;| Angelos Tzotsos , Tom Kralidis (OSGeo)
 |07:30-07:40 |Sprint goals for ASF projects &#10036;| Martin Desruisseaux (ASF)
 |07:40-08:00 |Questions and Answers &#10036;|
-|08:00-09:00 |5-minute pitch by each project or working group &#10036;| Visit each project/working group's jit.si room to hear the pitch
+|08:00-09:00 |5-minute pitch by each project or working group &#10036;| 
 |09:00-13:00 |Practical work in break-out rooms|
 |Break| |
 |13:30-16:30 |Practical work in break-out rooms|
