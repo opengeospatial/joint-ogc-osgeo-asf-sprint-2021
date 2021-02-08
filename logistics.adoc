@@ -6,7 +6,7 @@
 
 *OGC Breakout Rooms*
 
-SWGs can spin their own channel.
+SWGs and Projects can spin their own channel.
 
 * https://meet.jit.si/GeoAPI
 * https://meet.jit.si/OGC-API-Features
