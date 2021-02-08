@@ -6,15 +6,20 @@ The presentations will be arranged in alphabetical sequence. The list has been e
 
 NOTE: The list is only to be modified by the sprint organizers.
 
+* Apache Activemq
+* Apache CXF
+* Apache Karaf
 * Apache SIS
 * Apache Superset
+* Apache Tomcat
 * CDB
 * DGGS SWG
-* GeoAPI  SWG
+* GeoAPI SWG
 * GeoHealthCheck
 * GeoNetwork
 * GeoNode
 * GeoPackage SWG
+* GeoPose SWG
 * GeoServer
 * GeoTrellis
 * GeoXACML SWG
@@ -43,3 +48,4 @@ NOTE: The list is only to be modified by the sprint organizers.
 * Routing SWG
 * Stetl
 * ZOO-Project
+
