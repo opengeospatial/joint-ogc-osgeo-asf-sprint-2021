@@ -17,6 +17,8 @@ Meeting rooms are listed at on the https://github.com/opengeospatial/joint-ogc-o
 |10 minutes | Overview of participating ASF projects | Martin Desruisseaux (ASF)
 |20 minutes |Questions & Answers|
 3+|*17th February 2021*
+|02:00-03:00 |Networking &#10036; | A chance to network and meet other participants before the day starts.
+|03:00-07:00 |Break | 
 |07:00-07:05 |Welcome & objectives &#10036; | Gobe Hobona (OGC), Angelos Tzotsos (OSGeo), Tom Kralidis (OSGeo) and Martin Desruisseaux (ASF)
 |07:05-07:10 |Sprint programme & way of working &#10036; |
 |07:10-07:20 |Sprint goals for OGC standards working groups &#10036;| Gobe Hobona (OGC)
@@ -29,6 +31,8 @@ Meeting rooms are listed at on the https://github.com/opengeospatial/joint-ogc-o
 |13:30-16:30 |Practical work in break-out rooms|
 |16:30-17:30 |Daily brief back &#10036;|
 3+|*18th February 2021*
+|02:00-03:00 |Networking &#10036; | A chance to network and meet other participants before the day starts.
+|03:00-07:00 |Break | 
 |07:00-09:00 |Practical work in break-out rooms|
 |09:00-10:00 |a short stand-up and preliminary demonstration &#10036; |
 |10:00-12:30 |Practical work in break-out rooms|
@@ -37,6 +41,8 @@ Meeting rooms are listed at on the https://github.com/opengeospatial/joint-ogc-o
 |13:30-16:30 |Practical work in break-out rooms|
 |16:30-17:30 |Daily brief back &#10036;|
 3+|*19th February 2021*
+|02:00-03:00 |Networking &#10036; | A chance to network and meet other participants before the day starts.
+|03:00-07:00 |Break | 
 |07:00-09:00 |Practical work in break-out rooms|
 |09:00-10:00 |a short stand-up and preliminary demonstration &#10036; |
 |10:00-12:30 |Practical work in break-out rooms|
