@@ -15,6 +15,7 @@ NOTE: The list is only to be modified by the sprint organizers.
 * GeoNetwork
 * GeoNode
 * GeoPackage SWG
+* GeoServer
 * GeoTrellis
 * GeoXACML SWG
 * Hydrology Domain working Group
