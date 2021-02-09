@@ -1,4 +1,4 @@
-== About the September 2020 OGC API Sprint
+== About the February 2021 OGC API Sprint
 
 The goal of the code sprint is to advance support of open geospatial standards within the developer community, whilst also advancing the standards themselves. Therefore, the code sprint will enable software developers to focus on projects that implement open geospatial standards for a period of three days. The code sprint will cover multiple ASF, OSGeo projects and OGC standards - including **OGC API** standards. All OGC, OSGeo and ASF projects and working groups are invited to participate. This Sprint is open to all participants, even if you are not active members or contributors to the efforts of the hosting organizations.
 
