@@ -76,6 +76,21 @@
 | TBA
 |===
 
+
+=== Libraries for client or server implementations
+
+[#table_implementation,reftext='{table-caption} {counter:table-num}']
+.Libraries
+[cols=",,",width="75%",options="header",align="center"]
+|===
+|Library | Type | Contact
+
+| https://sis.apache.org[Apache SIS]
+| OGC/ISO metadata, referencing, feature, coverage
+|
+|===
+
+
 === Executable Test Suite
 
 [#table_documentation,reftext='{table-caption} {counter:table-num}']
