@@ -2,7 +2,7 @@
 
 === OS Open Zoomstack
 
-Sprint participants are encouraged to use *OS Open Zoomstack*, a comprehensive basemap of Great Britain showing coverage from national level right down to street detail.
+Sprint participants are encouraged to use *OS Open Zoomstack*, a comprehensive basemap of the United Kingdom showing coverage from national level right down to street detail.
 
 https://os.uk/business-government/products/open-zoomstack
 
@@ -15,3 +15,15 @@ A list of *previous and future OGC sprints and hackathons* is available at https
 OGC API website, https://ogcapi.ogc.org
 
 Blog posts about previous sprints, https://ogcapi.ogc.org/#blogs
+
+=== EU ESA Copernicus Open Access Hub
+
+Some coverage data can be downloaded from the Copernicus Open Access Hub https://scihub.copernicus.eu/dhus/#/home
+
+=== NASA Open Data
+
+Some coverage data can be downloaded from the NASA Open Data service https://open.nasa.gov/open-data/
+
+=== JAXA Data Distribution service
+
+Some coverage data can be downloaded from the JAXA Data Distribution service https://www.eorc.jaxa.jp/en/distribution/
