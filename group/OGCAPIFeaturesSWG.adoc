@@ -1,0 +1,21 @@
+== OGC API - Features SWG Agenda
+
+Meeting room https://meet.jit.si/OGC-API-Features
+
+Please add your GitHub handle to the table below, so that other participants know when to expect you.
+
+[cols="3,7,7a",options="header",]
+|===
+|*Time* (EST) |*What* |*Who will be here (GitHub Handles)*
+3+|*17th February 2021*
+|09:00-13:00 |Practical work| @github-handle-1 @github-handle-2
+|13:30-16:30 |Practical work|
+3+|*18th February 2021*
+|07:00-09:00 |Practical work|
+|10:00-12:30 |Practical work|
+|13:30-16:30 |Practical work|
+3+|*19th February 2021*
+|07:00-09:00 |Practical work|
+|10:00-12:30 |Practical work|
+|13:30-15:30 |Practical work|
+|===

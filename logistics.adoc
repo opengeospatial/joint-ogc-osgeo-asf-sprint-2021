@@ -6,50 +6,74 @@
 
 *OGC Breakout Rooms*
 
-SWGs and Projects can spin their own channel.
+SWGs and Projects can spin their own jit.si channel.
 
-* https://meet.jit.si/GeoAPI
-* https://meet.jit.si/OGC-API-Features
-* https://meet.jit.si/OGC-API-EDR
-* https://meet.jit.si/OGC-API-Common
-* https://meet.jit.si/OGC-API-Processes
-* https://meet.jit.si/OGC-API-Tiles
-* https://meet.jit.si/OGC-API-Records
-* https://meet.jit.si/OGC-API-Maps
-* https://meet.jit.si/OGC-API-Coverages
-* https://meet.jit.si/OGC-API-Styles
-* https://meet.jit.si/OGC-API-Routes
-
+* https://github.com/ghobona/joint-ogc-osgeo-asf-sprint-2021/blob/master/group/OGCAPICommonSWG.adoc[OGC API - Common SWG]
+* https://github.com/ghobona/joint-ogc-osgeo-asf-sprint-2021/blob/master/group/OGCAPICoveragesSWG.adoc[OGC API - Coverages SWG]
+* https://github.com/ghobona/joint-ogc-osgeo-asf-sprint-2021/blob/master/group/OGCAPIFeaturesSWG.adoc[OGC API - Features SWG]
+* https://github.com/ghobona/joint-ogc-osgeo-asf-sprint-2021/blob/master/group/OGCAPIMapsSWG.adoc[OGC API - Maps SWG]
+* https://github.com/ghobona/joint-ogc-osgeo-asf-sprint-2021/blob/master/group/OGCAPIProcesses.adoc[OGC API - Processes]
+* https://github.com/ghobona/joint-ogc-osgeo-asf-sprint-2021/blob/master/group/OGCAPIRecordsSWG.adoc[OGC API - Records SWG]
+* https://github.com/ghobona/joint-ogc-osgeo-asf-sprint-2021/blob/master/group/OGCAPIStylesSWG.adoc[OGC API - Styles SWG]
+* https://github.com/ghobona/joint-ogc-osgeo-asf-sprint-2021/blob/master/group/OGCAPITilesSWG.adoc[OGC API - Tiles SWG]
+* https://github.com/ghobona/joint-ogc-osgeo-asf-sprint-2021/blob/master/group/OGCCDBSWG.adoc[OGC CDB SWG]
+* https://github.com/ghobona/joint-ogc-osgeo-asf-sprint-2021/blob/master/group/OGCDGGSSWG.adoc[OGC DGGS SWG]
+* https://github.com/ghobona/joint-ogc-osgeo-asf-sprint-2021/blob/master/group/OGCGeoAPISWG.adoc[OGC GeoAPI SWG]
+* https://github.com/ghobona/joint-ogc-osgeo-asf-sprint-2021/blob/master/group/OGCGeoPackageSWG.adoc[OGC GeoPackage SWG]
+* https://github.com/ghobona/joint-ogc-osgeo-asf-sprint-2021/blob/master/group/OGCGeoPoseSWG.adoc[OGC GeoPose SWG]
+* https://github.com/ghobona/joint-ogc-osgeo-asf-sprint-2021/blob/master/group/OGCGeoXACMLSWG.adoc[OGC GeoXACML SWG]
+* https://github.com/ghobona/joint-ogc-osgeo-asf-sprint-2021/blob/master/group/OGCHydrologyDWG.adoc[OGC Hydrology DWG]
+* https://github.com/ghobona/joint-ogc-osgeo-asf-sprint-2021/blob/master/group/OGCRoutingSWG.adoc[OGC Routing SWG]
 
 *OSGeo Breakout Rooms*
 
-SWGs and Projects can spin their own channel.
+SWGs and Projects can spin their own jit.si channel.
+
+* https://github.com/ghobona/joint-ogc-osgeo-asf-sprint-2021/blob/master/group/OSGeoGeoHealthCheck.adoc[OSGeo GeoHealthCheck]
+* https://github.com/ghobona/joint-ogc-osgeo-asf-sprint-2021/blob/master/group/OSGeoGeoNetwork.adoc[OSGeo GeoNetwork]
+* https://github.com/ghobona/joint-ogc-osgeo-asf-sprint-2021/blob/master/group/OSGeoGeoNode.adoc[OSGeo GeoNode]
+* https://github.com/ghobona/joint-ogc-osgeo-asf-sprint-2021/blob/master/group/OSGeoGeoServer.adoc[OSGeo GeoServer]
+* https://github.com/ghobona/joint-ogc-osgeo-asf-sprint-2021/blob/master/group/OSGeoGeoTrellis.adoc[OSGeo GeoTrellis]
+* https://github.com/ghobona/joint-ogc-osgeo-asf-sprint-2021/blob/master/group/OSGeoMapbender.adoc[OSGeo Mapbender]
+* https://github.com/ghobona/joint-ogc-osgeo-asf-sprint-2021/blob/master/group/OSGeomapproxy.adoc[OSGeo mapproxy]
+* https://github.com/ghobona/joint-ogc-osgeo-asf-sprint-2021/blob/master/group/OSGeoMapServer.adoc[OSGeo MapServer]
+* https://github.com/ghobona/joint-ogc-osgeo-asf-sprint-2021/blob/master/group/OSGeoMobilityDB.adoc[OSGeo MobilityDB]
+* https://github.com/ghobona/joint-ogc-osgeo-asf-sprint-2021/blob/master/group/OSGeoOSGeoLive.adoc[OSGeo OSGeoLive]
+* https://github.com/ghobona/joint-ogc-osgeo-asf-sprint-2021/blob/master/group/OSGeoOWSLib.adoc[OSGeo OWSLib]
+* https://github.com/ghobona/joint-ogc-osgeo-asf-sprint-2021/blob/master/group/OSGeopdal.adoc[OSGeo pdal]
+* https://github.com/ghobona/joint-ogc-osgeo-asf-sprint-2021/blob/master/group/OSGeopgRouting.adoc[OSGeo pgRouting]
+* https://github.com/ghobona/joint-ogc-osgeo-asf-sprint-2021/blob/master/group/OSGeoPostGIS.adoc[OSGeo PostGIS]
+* https://github.com/ghobona/joint-ogc-osgeo-asf-sprint-2021/blob/master/group/OSGeoProj.adoc[OSGeo Proj]
+* https://github.com/ghobona/joint-ogc-osgeo-asf-sprint-2021/blob/master/group/OSGeopycsw.adoc[OSGeo pycsw]
+* https://github.com/ghobona/joint-ogc-osgeo-asf-sprint-2021/blob/master/group/OSGeopygeoapi.adoc[OSGeo pygeoapi]
+* https://github.com/ghobona/joint-ogc-osgeo-asf-sprint-2021/blob/master/group/OSGeoQGIS.adoc[OSGeo QGIS]
+* https://github.com/ghobona/joint-ogc-osgeo-asf-sprint-2021/blob/master/group/OSGeoStetl.adoc[OSGeo Stetl]
+* https://github.com/ghobona/joint-ogc-osgeo-asf-sprint-2021/blob/master/group/OSGeoZOOProject.adoc[OSGeo ZOO-Project]
+* https://github.com/ghobona/joint-ogc-osgeo-asf-sprint-2021/blob/master/group/MapML.adoc[MapML]
+
+Other OSGeo channels
 
 * https://meet.jit.si/tosprint (Lobby channel for free discussion)
 * https://meet.jit.si/OSGeo (generic OSGeo channel)
 * https://meet.jit.si/OSGeoBoard (Board sprint room)
+
+
+Contributors to the following needed:
+
 * https://meet.jit.si/GDAL
-* https://meet.jit.si/QGIS
-* https://meet.jit.si/PostGIS
 * https://meet.jit.si/GEOS
-* https://meet.jit.si/GeoServer
-* https://meet.jit.si/MapML
-* https://meet.jit.si/MapServer
 * https://meet.jit.si/GRASS
-* https://meet.jit.si/OSGeoLive
-* https://meet.jit.si/geopython (channel for pycsw, pygeoapi, pygeometa, GeoNode, OWSLib, GeoHealthCheck, MapProxy development, other geopython projects are welcome)
-* https://open.meet.garr.it/OSGeo_Virtual_Community_Sprint_Italian_Translation (Italian community for translation)
-* https://meet.jit.si/EOEPCA (meeting room for ESA EOEPCA project participating in the code sprint)
-* https://meet.jit.si/pgrouting and https://gitter.im/pgRouting/pgrouting will be used for written communication.
-* https://meet.jit.si/GeoNode
 
 *ASF Breakout Rooms*
 
-SWGs and Projects can spin their own channel.
+SWGs and Projects can spin their own jit.si channel.
 
-* https://meet.jit.si/apache-sis
-* https://meet.jit.si/apache-jena
-* https://meet.jit.si/apache-superset
+* https://github.com/ghobona/joint-ogc-osgeo-asf-sprint-2021/blob/master/group/ApacheActivemq.adoc[Apache Activemq]
+* https://github.com/ghobona/joint-ogc-osgeo-asf-sprint-2021/blob/master/group/ApacheCXF.adoc[Apache CXF]
+* https://github.com/ghobona/joint-ogc-osgeo-asf-sprint-2021/blob/master/group/ApacheKaraf.adoc[Apache Karaf]
+* https://github.com/ghobona/joint-ogc-osgeo-asf-sprint-2021/blob/master/group/ApacheSIS.adoc[Apache SIS]
+* https://github.com/ghobona/joint-ogc-osgeo-asf-sprint-2021/blob/master/group/ApacheSuperset.adoc[Apache Superset]
+* https://github.com/ghobona/joint-ogc-osgeo-asf-sprint-2021/blob/master/group/ApacheTomcat.adoc[Apache Tomcat]
 
 *GitHub*
 
