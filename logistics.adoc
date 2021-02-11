@@ -23,6 +23,8 @@ SWGs and Projects can spin their own channel.
 
 *OSGeo Breakout Rooms*
 
+SWGs and Projects can spin their own channel.
+
 * https://meet.jit.si/tosprint (Lobby channel for free discussion)
 * https://meet.jit.si/OSGeo (generic OSGeo channel)
 * https://meet.jit.si/OSGeoBoard (Board sprint room)
@@ -42,6 +44,8 @@ SWGs and Projects can spin their own channel.
 * https://meet.jit.si/GeoNode
 
 *ASF Breakout Rooms*
+
+SWGs and Projects can spin their own channel.
 
 * https://meet.jit.si/apache-sis
 * https://meet.jit.si/apache-jena
