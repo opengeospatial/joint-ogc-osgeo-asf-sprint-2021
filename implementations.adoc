@@ -48,6 +48,10 @@
 | https://data-api-mdl.nws.noaa.gov/EDR-API[NOAA NWS EDR-API prototype implementation] 
 | OGC API - EDR
 | https://github.com/ShaneMill1[Shane Mill]
+
+| https://ogcie.iblsoft.com/edr[IBL EDR-API implementation] (https://github.com/opengeospatial/ogcapi-environmental-data-retrieval/blob/master/Implementations.md#ibl-software-engineering[Details and query examples])
+| OGC API - EDR
+| https://github.com/iandruska-ibl[Igor Andruska]
 |===
 
 
