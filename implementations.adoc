@@ -91,7 +91,11 @@
 
 | https://sis.apache.org[Apache SIS]
 | OGC/ISO metadata, referencing, feature, coverage
-|
+| https://github.com/desruisseaux[Martin Desruisseaux]
+
+| https://github.com/Kortforsyningen/PROJ-JNI[PROJ-JNI]
+| GeoAPI wrappers for referencing services
+| https://github.com/desruisseaux[Martin Desruisseaux]
 |===
 
 
