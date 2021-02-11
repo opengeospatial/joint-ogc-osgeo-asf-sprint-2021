@@ -4,6 +4,15 @@
 
 ** Gotomeeting TBA
 
+*GitHub*
+
+* Public repo https://github.com/opengeospatial/joint-ogc-osgeo-asf-sprint-2021
+
+*Gitter*
+
+* https://gitter.im/opengeospatial/joint-ogc-osgeo-asf-sprint-2021
+
+
 *OGC Breakout Rooms*
 
 SWGs and Projects can spin their own jit.si channel.
@@ -74,11 +83,3 @@ SWGs and Projects can spin their own jit.si channel.
 * https://github.com/opengeospatial/joint-ogc-osgeo-asf-sprint-2021/blob/master/group/ApacheSIS.adoc[Apache SIS]
 * https://github.com/opengeospatial/joint-ogc-osgeo-asf-sprint-2021/blob/master/group/ApacheSuperset.adoc[Apache Superset]
 * https://github.com/opengeospatial/joint-ogc-osgeo-asf-sprint-2021/blob/master/group/ApacheTomcat.adoc[Apache Tomcat]
-
-*GitHub*
-
-* Public repo https://github.com/opengeospatial/joint-ogc-osgeo-asf-sprint-2021
-
-*Gitter*
-
-* https://gitter.im/opengeospatial/joint-ogc-osgeo-asf-sprint-2021
