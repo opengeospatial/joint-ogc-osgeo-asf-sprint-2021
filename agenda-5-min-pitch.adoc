@@ -15,6 +15,7 @@ NOTE: The list is only to be modified by the sprint organizers.
 * https://github.com/opengeospatial/joint-ogc-osgeo-asf-sprint-2021/blob/master/group/ApacheTomcat.adoc[Apache Tomcat]
 * https://github.com/opengeospatial/joint-ogc-osgeo-asf-sprint-2021/blob/master/group/OGCAPICommonSWG.adoc[OGC API - Common SWG]
 * https://github.com/opengeospatial/joint-ogc-osgeo-asf-sprint-2021/blob/master/group/OGCAPICoveragesSWG.adoc[OGC API - Coverages SWG]
+* https://github.com/opengeospatial/joint-ogc-osgeo-asf-sprint-2021/blob/master/group/OGCAPIEDRSWG.adoc[OGC API - Environmental Data Retrieval (EDR) SWG]
 * https://github.com/opengeospatial/joint-ogc-osgeo-asf-sprint-2021/blob/master/group/OGCAPIFeaturesSWG.adoc[OGC API - Features SWG]
 * https://github.com/opengeospatial/joint-ogc-osgeo-asf-sprint-2021/blob/master/group/OGCAPIMapsSWG.adoc[OGC API - Maps SWG]
 * https://github.com/opengeospatial/joint-ogc-osgeo-asf-sprint-2021/blob/master/group/OGCAPIProcesses.adoc[OGC API - Processes]
