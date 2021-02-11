@@ -8,6 +8,7 @@ NOTE: The list is only to be modified by the sprint organizers.
 
 * https://github.com/opengeospatial/joint-ogc-osgeo-asf-sprint-2021/blob/master/group/ApacheActivemq.adoc[Apache Activemq]
 * https://github.com/opengeospatial/joint-ogc-osgeo-asf-sprint-2021/blob/master/group/ApacheCXF.adoc[Apache CXF]
+* https://github.com/opengeospatial/joint-ogc-osgeo-asf-sprint-2021/blob/master/group/ApacheJena.adoc[Apache Jena]
 * https://github.com/opengeospatial/joint-ogc-osgeo-asf-sprint-2021/blob/master/group/ApacheKaraf.adoc[Apache Karaf]
 * https://github.com/opengeospatial/joint-ogc-osgeo-asf-sprint-2021/blob/master/group/ApacheSIS.adoc[Apache SIS]
 * https://github.com/opengeospatial/joint-ogc-osgeo-asf-sprint-2021/blob/master/group/ApacheSuperset.adoc[Apache Superset]
