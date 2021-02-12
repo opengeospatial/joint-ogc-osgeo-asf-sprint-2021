@@ -48,7 +48,7 @@ The goal of the code sprint is to advance support of open geospatial standards w
 * [Schedule/Agenda](./agenda.adoc)
 * [Implementations](./implementations.adoc)
 * [Datasets](./Shared_Datasets/README.md)
-* [What is everybody going to be working on?](https://github.com/opengeospatial/joint-ogc-osgeo-asf-sprint-2021/issues/1)
+* [What is everybody going to be working on?](https://github.com/opengeospatial/joint-ogc-osgeo-asf-sprint-2021/issues/2)
 * [Lessons and Next Steps](./lessonsAndNextSteps.adoc)
 * [Additional Resources](./additionalResources.adoc)
 * [Frequently Asked Questions (FAQs)](./FAQ.adoc)
