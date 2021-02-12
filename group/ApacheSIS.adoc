@@ -19,3 +19,10 @@ Please add your GitHub handle to the table below, so that other participants kno
 |10:00-12:30 |Practical work|
 |13:30-15:30 |Practical work| https://github.com/desruisseaux[Martin Desruisseaux]
 |===
+
+=== Work item proposals
+
+* Review OGC filter implementations, together with a review of corresponding GeoAPI interfaces.
+* Review the https://github.com/apache/sis/tree/master/storage/sis-shapefile/src/main/java/org/apache/sis/storage/shapefile[Shapefile reader]. May need to redevelop some parts.
+* JavaFX widget for Coordinate Reference System definitions.
+* Help migrating the https://sis.apache.org/[web site] to a new (to be determined) Content Management System and take this opportunity for making it better.
