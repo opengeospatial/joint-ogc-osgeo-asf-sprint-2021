@@ -52,6 +52,10 @@
 | https://ogcie.iblsoft.com/edr[IBL EDR-API implementation] (https://github.com/opengeospatial/ogcapi-environmental-data-retrieval/blob/master/Implementations.md#ibl-software-engineering[Details and query examples])
 | OGC API - EDR
 | https://github.com/iandruska-ibl[Igor Andruska]
+
+| https://maps.ecere.com/ogcapi[GNOSIS Map Server]
+| OGC API - Features/Coverages/Maps/Tiles/Styles/Processes (Workflows)
+| https://github.com/jerstlouis[Jerome St-Louis]
 |===
 
 
@@ -74,6 +78,10 @@
 | https://geopython.github.io/OWSLib/#ogc-api[OWSLib] - https://github.com/geopython/OWSLib/tree/master/owslib/ogcapi[git]
 | OGC API - Features, OGC API - Coverages, OGC API - Records
 |
+
+| https://ecere.ca/gnosis[GNOSIS Cartographer]
+| OGC API - Features/Coverages/Maps/Tiles/Styles/Processes (Workflows)
+| https://github.com/jerstlouis[Jerome St-Louis]
 
 | TBA
 | TBA
