@@ -19,3 +19,12 @@ Please add your GitHub handle to the table below, so that other participants kno
 |10:00-12:30 |Practical work|
 |13:30-15:30 |Practical work| https://github.com/desruisseaux[Martin Desruisseaux]
 |===
+
+
+=== Work item proposals
+
+* Ask peoples from the Python community to review the https://github.com/opengeospatial/geoapi/tree/master/geoapi/src/main/python/opengis[GeoAPI Python abstract classes for metadata and referencing by coordinates]. Those abstract classes have never been formally released by OGC yet, so they are pretty much open for changes based on Python experts feedback. In particular, how to represent features is an open question.
+* https://github.com/Kortforsyningen/PROJ-JNI/issues/33[Submit PROJ-JNI as an OSGeo project]. PROJ-JNI is a wrapper making the PROJ library accessible as an OGC GeoAPI 3.0.1 implementation.
+* https://github.com/Unidata/netcdf-java/issues/256[Migrate GeoAPI wrapper for UCAR library to the UCAR organisation]. First step is to migrate the existing wrappers for UCAR library version 4. Next step will be to upgrade to UCAR library version 5.
+* Continue the writing of GeoAPI 3.1 / 4.0 specification. This would require feedback from Java and Python users.
+* https://github.com/opengeospatial/geoapi/tree/master/geoapi-pending/src/main/java/org/opengis/filter[Review filter interfaces]: compare with latest OGC standards, simplify, consider retrofiting in `java.util.function` interfaces.
