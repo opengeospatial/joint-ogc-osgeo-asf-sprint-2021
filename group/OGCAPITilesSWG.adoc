@@ -1,6 +1,6 @@
 == OGC API - Tiles SWG Agenda
 
-Meeting room https://meet.jit.si/OGC-API-Tiles
+Meeting room https://meet.jit.si/OGC-API-Tiles (joint session with OGC API - Maps)
 
 Please add your GitHub handle to the table below, so that other participants know when to expect you.
 
@@ -8,14 +8,14 @@ Please add your GitHub handle to the table below, so that other participants kno
 |===
 |*Time* (EST) |*What* |*Who will be here (GitHub Handles)*
 3+|*17th February 2021*
-|09:00-13:00 |Practical work| @github-handle-1 @github-handle-2
-|13:30-16:30 |Practical work|
+|09:00-13:00 |Practical work| @joanma747 @NuriaJulia
+|13:30-16:30 |Practical work| @joanma747 @NuriaJulia
 3+|*18th February 2021*
-|07:00-09:00 |Practical work|
-|10:00-12:30 |Practical work|
-|13:30-16:30 |Practical work|
+|07:00-09:00 |Practical work| @joanma747 @NuriaJulia
+|10:00-12:30 |Practical work| @joanma747 @NuriaJulia
+|13:30-16:30 |Practical work| @joanma747 @NuriaJulia
 3+|*19th February 2021*
-|07:00-09:00 |Practical work|
-|10:00-12:30 |Practical work|
-|13:30-15:30 |Practical work|
+|07:00-09:00 |Practical work| @joanma747 @NuriaJulia
+|10:00-12:30 |Practical work| @joanma747 @NuriaJulia
+|13:30-15:30 |Practical work| @joanma747 @NuriaJulia
 |===
