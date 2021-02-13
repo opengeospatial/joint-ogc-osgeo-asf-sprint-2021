@@ -12,3 +12,4 @@
 * OGC API - Environmental Data Retrieval https://ogcapi.ogc.org/edr
 * OGC SensorThings API https://www.ogc.org/standards/sensorthings
 * GeoAPI https://www.ogc.org/standards/geoapi
+* MapML - https://maps4html.org/MapML/spec/

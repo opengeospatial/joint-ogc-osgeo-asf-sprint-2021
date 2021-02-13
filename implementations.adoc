@@ -8,9 +8,13 @@
 |===
 |Implementation | Type | Contact
 
-| TBA
-| TBA
-| TBA
+| https://docs.geoserver.org/latest/en/user/community/mapml/index.html[GeoServer MapML Community Module User's Guide]
+| User (administrator) Guide
+|https://github.com/prushforth[Pete Rushforth]
+
+| https://maps4html.org/web-map-doc/[Web-Map-Custom-Element]
+| Web developer
+| https://github.com/ahmadayubi[Ahmad Ayubi]
 
 | TBA
 | TBA
@@ -40,6 +44,10 @@
 | http://cloudsdi.geo-solutions.it/geoserver/wfs3[GeoServer] -  https://github.com/geoserver/geoserver/tree/master/src/community/ogcapi[git]
 | OGC API - Features/Styles/Tiles
 |
+
+| https://docs.geoserver.org/latest/en/user/community/mapml/index.html[MapML] -  https://github.com/Maps4HTML/geoserver[git]
+| OGC / W3C MapML - Features/Tiles/Maps/CSS
+|https://github.com/prushforth[Pete Rushforth]
 
 | https://blog.qgis.org/2019/11/26/qgis-server-is-ready-for-the-new-ogc-api-for-features-protocol[QGIS server]
 | OGC API - Features
@@ -73,6 +81,10 @@
 
 | https://geopython.github.io/OWSLib/#ogc-api[OWSLib] - https://github.com/geopython/OWSLib/tree/master/owslib/ogcapi[git]
 | OGC API - Features, OGC API - Coverages, OGC API - Records
+|
+
+| https://geogratis.gc.ca/mapml/en/cbmtile/fdi/[Web-Map-Custom-Element] - https://github.com/Maps4HTML/Web-Map-Custom-Element[git]
+| OGC / W3C MapML - Extension of HTML for Maps
 |
 
 | TBA
