@@ -27,3 +27,7 @@ Some coverage data can be downloaded from the NASA Open Data service https://ope
 === JAXA Data Distribution service
 
 Some coverage data can be downloaded from the JAXA Data Distribution service https://www.eorc.jaxa.jp/en/distribution/
+
+=== Meteorological Service of Canada Open Data
+
+Provides up-to-date information on past, present and future weather, water, climate and environmental conditions over Canada and the world. https://eccc-msc.github.io/open-data/
