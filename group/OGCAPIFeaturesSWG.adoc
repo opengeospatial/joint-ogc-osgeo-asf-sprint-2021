@@ -4,6 +4,8 @@ Meeting room https://meet.jit.si/OGC-API-Features
 
 Please add your GitHub handle to the table below, so that other participants know when to expect you.
 
+NOTE: The editors (@pvretano and @cportele) can be reached through Gitter. If there are questions or discussion topics on any of the parts of OGC API Features contact them on the sprint Gitter channel.
+
 [cols="3,7,7a",options="header",]
 |===
 |*Time* (EST) |*What* |*Who will be here (GitHub Handles)*
