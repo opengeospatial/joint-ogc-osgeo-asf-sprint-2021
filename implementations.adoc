@@ -16,9 +16,9 @@
 | Web developer
 | https://github.com/ahmadayubi[Ahmad Ayubi]
 
-| TBA
-| TBA
-| TBA
+| https://github.com/flagis/ogcapi_s2[NodeJS Tutorial for OGC API - Features (in Dutch language)]
+| OGC API - Features
+| https://github.com/lathoub[@lathoub]
 
 | TBA
 | TBA
