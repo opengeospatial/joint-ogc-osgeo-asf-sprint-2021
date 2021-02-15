@@ -59,18 +59,13 @@ Participants are expected to observe the [codes of conduct](/conduct.adoc) of th
 Sprint Sponsorship
 ----------------
 
-Due to the COVID-19 pandemic, the sprint will be held online only. In order to cover the web hosting and web-conferencing infrastructure costs, the following sponsorship levels are available:
+Organizations interested in sponsoring **future** OGC and OSGeo code sprint should contact Gobe Hobona (for OGC) (**ghobona[at]ogc.org**) and Angelos Tzotsos (for OSGeo) (**tzotsos[at]osgeo.org**).
 
-* Gold: 1700 USD
-* Silver: 850 USD
+Sponsors benefit from:
 
-Sponsors will benefit from:
-
-Sponsors' logos placed on the sprint website as well as on all official presentations used during the sprint
-Acknowledgement in blog posts and the report summarizing the outcome of the sprint
-Acknowledgement in a series of emails and social media posts promoting the sprint
-
-Organizations may sponsor the event either through OGC or OSGeo. Organizations interested in sponsoring the code sprint should contact Gobe Hobona (**ghobona[at]ogc.org**) and Angelos Tzotsos (**tzotsos[at]osgeo.org**).
+* Sponsors' logos placed on the sprint website as well as on all official presentations used during the sprint
+* Acknowledgement in blog posts and the report summarizing the outcome of the sprint
+* Acknowledgement in a series of emails and social media posts promoting the sprint.
 
 About the Organizers
 ----------------
