@@ -9,6 +9,7 @@
 * OGC API - Styles https://ogcapi.ogc.org/styles
 * OGC API - Common https://ogcapi.ogc.org/common
 * OGC API - Records https://ogcapi.ogc.org/records
+* OGC API - Routes https://github.com/opengeospatial/ogcapi-routes
 * OGC API - Environmental Data Retrieval https://ogcapi.ogc.org/edr
 * OGC SensorThings API https://www.ogc.org/standards/sensorthings
 * GeoAPI https://www.ogc.org/standards/geoapi
