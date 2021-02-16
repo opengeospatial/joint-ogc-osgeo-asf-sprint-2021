@@ -30,7 +30,6 @@ SWGs and Projects can spin their own jit.si channel.
 * https://github.com/opengeospatial/joint-ogc-osgeo-asf-sprint-2021/blob/master/group/OGCDGGSSWG.adoc[OGC DGGS SWG]
 * https://github.com/opengeospatial/joint-ogc-osgeo-asf-sprint-2021/blob/master/group/OGCGeoAPISWG.adoc[OGC GeoAPI SWG]
 * https://github.com/opengeospatial/joint-ogc-osgeo-asf-sprint-2021/blob/master/group/OGCGeoPackageSWG.adoc[OGC GeoPackage SWG]
-* https://github.com/opengeospatial/joint-ogc-osgeo-asf-sprint-2021/blob/master/group/OGCGeoPoseSWG.adoc[OGC GeoPose SWG]
 * https://github.com/opengeospatial/joint-ogc-osgeo-asf-sprint-2021/blob/master/group/OGCGeoXACMLSWG.adoc[OGC GeoXACML SWG]
 * https://github.com/opengeospatial/joint-ogc-osgeo-asf-sprint-2021/blob/master/group/OGCHydrologyDWG.adoc[OGC Hydrology DWG]
 * https://github.com/opengeospatial/joint-ogc-osgeo-asf-sprint-2021/blob/master/group/OGCRoutingSWG.adoc[OGC Routing SWG]
