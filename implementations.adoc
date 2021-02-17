@@ -69,6 +69,10 @@
 | OGC / W3C MapML - Features/Tiles/Maps/CSS
 | https://github.com/prushforth[Pete Rushforth]
 
+| https://test.cubewerx.com/cubewerx/cubeserv/demo[CubeWerx Demonstration Server]
+| OGC API - Features/Coverages/Maps/Tiles/Styles
+| http://github.com/pvretano[Panagiotis (Peter) A. Vretanos]
+
 |===
 
 
