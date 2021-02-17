@@ -1,6 +1,7 @@
 == OSGeo GeoServer Agenda
 
 Meeting room https://meet.jit.si/GeoServer
+
 ChitChat: https://gitter.im/geoserver
 
 Please add your GitHub handle to the table below, so that other participants know when to expect you.
@@ -27,5 +28,5 @@ Attendees are asked to:
 
 * Have a checkout of github.com/geoserver/geoserver
 * Build with the `-Pogcapi` profile to try out the ogcapi community module
-* Background reading [ogc-api-features](https://www.ogc.org/standards/ogcapi-features)
+* Background reading https://www.ogc.org/standards/ogcapi-features[ogc-api-features]
 * Ask lots of questions on https://meet.jit.si/OGC-API-Features meeting room :)
