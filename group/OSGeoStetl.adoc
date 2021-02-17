@@ -1,6 +1,6 @@
 == OSGeo Stetl Agenda
 
-Meeting room https://meet.jit.si/OSGeoStetl
+Meeting room https://meet.jit.si/geopython
 
 Please add your GitHub handle to the table below, so that other participants know when to expect you.
 
