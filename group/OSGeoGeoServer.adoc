@@ -1,6 +1,7 @@
 == OSGeo GeoServer Agenda
 
 Meeting room https://meet.jit.si/GeoServer
+ChitChat: https://gitter.im/geoserver
 
 Please add your GitHub handle to the table below, so that other participants know when to expect you.
 
@@ -8,14 +9,23 @@ Please add your GitHub handle to the table below, so that other participants kno
 |===
 |*Time* (EST) |*What* |*Who will be here (GitHub Handles)*
 3+|*17th February 2021*
-|09:00-13:00 |Practical work| @github-handle-1 @github-handle-2
-|13:30-16:30 |Practical work|
+|09:00-13:00 | ogc-api-features | @aaime
+|            | QA, docs | @jodygarnett
+|            | ogc-api-features | @MichelGabriel
+|13:30-16:30 |Practical work| as above
 3+|*18th February 2021*
-|07:00-09:00 |Practical work|
-|10:00-12:30 |Practical work|
-|13:30-16:30 |Practical work|
+|07:00-09:00 |Practical work| demo prep
+|10:00-12:30 |Practical work| as above
+|13:30-16:30 |Practical work| as above
 3+|*19th February 2021*
-|07:00-09:00 |Practical work|
-|10:00-12:30 |Practical work|
-|13:30-15:30 |Practical work|
+|07:00-09:00 |Practical work| as above
+|10:00-12:30 |Practical work| as above
+|13:30-15:30 |Practical work| demo prep, wrapup, blog post
 |===
+
+Attendees are asked to:
+
+* Have a checkout of github.com/geoserver/geoserver
+* Build with the `-Pogcapi` profile to try out the ogcapi community module
+* Background reading [ogc-api-features](https://www.ogc.org/standards/ogcapi-features)
+* Ask lots of questions on https://meet.jit.si/OGC-API-Features meeting room :)
