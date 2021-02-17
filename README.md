@@ -15,7 +15,7 @@ The Sprint is sponsored by
 <td>
 <span style="color:black;font-weight:bold">Gold Sponsor</span>
 
-[<img src="https://raw.githubusercontent.com/opengeospatial/joint-ogc-osgeo-asf-sprint-2021/master/images/logo-os.png" width="200"/>](https://www.ordnancesurvey.co.uk/s)
+[<img src="https://www.ordnancesurvey.co.uk/blog/wp-content/uploads/2018/08/os-logo.png" width="200"/>](https://www.ordnancesurvey.co.uk/s)
 </td>
 </tr>
 <tr style="background-color:#FFFFFF">
