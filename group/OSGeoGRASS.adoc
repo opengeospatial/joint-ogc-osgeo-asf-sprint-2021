@@ -1,0 +1,6 @@
+== OSGeo GRASS GIS Agenda
+
+* Meeting room: https://meet.jit.si/GRASS
+  - Use grass-dev mailing list  to set up times for formal meetings.
+  - Meeting will be announced on sprint Gitter.
+* Agenda managed in GitHub project of the core repo: https://github.com/OSGeo/grass/projects/5
