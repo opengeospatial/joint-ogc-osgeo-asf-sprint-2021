@@ -8,7 +8,7 @@ Please add your GitHub handle to the table below, so that other participants kno
 |===
 |*Time* (EST) |*What* |*Who will be here (GitHub Handles)*
 3+|*17th February 2021*
-|09:00-13:00 |Practical work| @github-handle-1 @github-handle-2
+|09:00-13:00 |Practical work| @jgoodyear @github-handle-1 @github-handle-2
 |13:30-16:30 |Practical work| https://github.com/mattrpav[Matt Pavlovich]
 3+|*18th February 2021*
 |07:00-09:00 |Practical work|
