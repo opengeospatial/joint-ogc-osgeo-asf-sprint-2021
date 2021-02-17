@@ -44,6 +44,7 @@ SWGs and Projects can spin their own jit.si channel.
 * https://github.com/opengeospatial/joint-ogc-osgeo-asf-sprint-2021/blob/master/group/OSGeoGeoNode.adoc[OSGeo GeoNode]
 * https://github.com/opengeospatial/joint-ogc-osgeo-asf-sprint-2021/blob/master/group/OSGeoGeoServer.adoc[OSGeo GeoServer]
 * https://github.com/opengeospatial/joint-ogc-osgeo-asf-sprint-2021/blob/master/group/OSGeoGeoTrellis.adoc[OSGeo GeoTrellis]
+* https://github.com/opengeospatial/joint-ogc-osgeo-asf-sprint-2021/blob/master/group/OSGeoGRASS.adoc[OSGeo GRASS GIS]
 * https://github.com/opengeospatial/joint-ogc-osgeo-asf-sprint-2021/blob/master/group/OSGeoMapbender.adoc[OSGeo Mapbender]
 * https://github.com/opengeospatial/joint-ogc-osgeo-asf-sprint-2021/blob/master/group/OSGeomapproxy.adoc[OSGeo mapproxy]
 * https://github.com/opengeospatial/joint-ogc-osgeo-asf-sprint-2021/blob/master/group/OSGeoMapServer.adoc[OSGeo MapServer]
@@ -72,7 +73,6 @@ Contributors to the following needed:
 
 * https://meet.jit.si/GDAL
 * https://meet.jit.si/GEOS
-* https://meet.jit.si/GRASS
 
 *ASF Breakout Rooms*
 
