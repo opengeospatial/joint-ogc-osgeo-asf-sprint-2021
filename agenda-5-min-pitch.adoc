@@ -34,6 +34,7 @@ NOTE: The list is only to be modified by the sprint organizers.
 * https://github.com/opengeospatial/joint-ogc-osgeo-asf-sprint-2021/blob/master/group/OSGeoGeoNode.adoc[OSGeo GeoNode]
 * https://github.com/opengeospatial/joint-ogc-osgeo-asf-sprint-2021/blob/master/group/OSGeoGeoServer.adoc[OSGeo GeoServer]
 * https://github.com/opengeospatial/joint-ogc-osgeo-asf-sprint-2021/blob/master/group/OSGeoGeoTrellis.adoc[OSGeo GeoTrellis]
+* https://github.com/opengeospatial/joint-ogc-osgeo-asf-sprint-2021/blob/master/group/OSGeoGRASS.adoc[OSGeo GRASS]
 * https://github.com/opengeospatial/joint-ogc-osgeo-asf-sprint-2021/blob/master/group/OSGeoMapbender.adoc[OSGeo Mapbender]
 * https://github.com/opengeospatial/joint-ogc-osgeo-asf-sprint-2021/blob/master/group/OSGeomapproxy.adoc[OSGeo mapproxy]
 * https://github.com/opengeospatial/joint-ogc-osgeo-asf-sprint-2021/blob/master/group/OSGeoMapServer.adoc[OSGeo MapServer]
