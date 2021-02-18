@@ -73,6 +73,10 @@
 | OGC API - Features/Coverages/Maps/Tiles/Styles
 | http://github.com/pvretano[Panagiotis (Peter) A. Vretanos]
 
+| https://demo.mapmint.com/ogc-api/index.html[ZOO-Project Demonstration Server]
+| OGC API - Processes
+| http://github.com/gfenoy[Gérald Fenoy]
+
 |===
 
 
