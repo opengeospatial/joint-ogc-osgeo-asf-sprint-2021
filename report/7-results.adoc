@@ -32,6 +32,10 @@ image::images/pygeoapi1.png[width=600,align="center"]
 .A screenshot of GeoNetwork and the download buttons (right-hand side of the screen) for different supported formats
 image::images/geonetwork.png[width=600,align="center"]
 
+[#img_mapml,reftext='{figure-caption} {counter:figure-num}']
+.Screenshot of the MapML viewer in GeoServer
+image::images/mapml-geoserver.png[width=600,align="center"]
+
 [#img_cubewerx,reftext='{figure-caption} {counter:figure-num}']
 .A screenshot of the CubeWerx Ship Detection processes running on Sentinel data in the Amazon Web Services Cloud
 image::images/cubewerx.png[width=600,align="center"]
