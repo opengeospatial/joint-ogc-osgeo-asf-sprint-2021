@@ -1,0 +1,7 @@
+==== CREAF MiraMon Map Server
+
+The MiraMon Map Server is a CGI application encoded in C language that is part of the MiraMon Geographic Information System (GIS) & Remote Sensing (RS) suite. Currently the server implements WMS, WMTS and partially implements WFS and WCS. It also partially implements the OGC Sensor Observation Service (SOS) standard. In order to perform efficiently, it requires a process preparing the data to be offered. It can interoperate with other vendors clients but combined with the MiraMon Map Client it offers more functionality, including functionality recently developed for the Catalan Data Cube.
+
+The software originally started 10 years ago as a WMS server in support of the Catalan Administration and CREAF data services.
+
+It includes prototype support for the draft OGC API - Maps and OGC API - Tiles specifications.

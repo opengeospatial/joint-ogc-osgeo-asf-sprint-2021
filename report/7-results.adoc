@@ -36,6 +36,6 @@ image::images/geonetwork.png[width=600,align="center"]
 .A screenshot of the CubeWerx Ship Detection processes running on Sentinel data in the Amazon Web Services Cloud
 image::images/cubewerx.png[width=600,align="center"]
 
-[#img_cubewerx,reftext='{figure-caption} {counter:figure-num}']
+[#img_cubewerx2,reftext='{figure-caption} {counter:figure-num}']
 .Example output from the CubeWerx Ship Detection processes
-image::images/cubewerx.png[width=600,align="center"]
+image::images/cubewerx2.png[width=600,align="center"]

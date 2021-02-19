@@ -99,3 +99,13 @@ include::architecture/ApacheKaraf.adoc[]
 include::architecture/ApacheSuperset.adoc[]
 
 include::architecture/ApacheTomcat.adoc[]
+
+=== Proprietary products
+
+include::architecture/CubeWerxCubeServ.adoc[]
+
+include::architecture/CREAFMiraMon.adoc[]
+
+include::architecture/EcereGNOSIS.adoc[]
+
+include::architecture/ii_ldproxy.adoc[]

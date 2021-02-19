@@ -798,6 +798,14 @@ To obtain additional rights of use, visit <a href="http://www.opengeospatial.org
 <li><a href="#_apache_tomcat">7.4.6. Apache Tomcat</a></li>
 </ul>
 </li>
+<li><a href="#_proprietary_products">7.5. Proprietary products</a>
+<ul class="sectlevel3">
+<li><a href="#_cubewerx_cubeserv">7.5.1. CubeWerx CubeServ</a></li>
+<li><a href="#_creaf_miramon_map_server">7.5.2. CREAF MiraMon Map Server</a></li>
+<li><a href="#_gnosis_map_server">7.5.3. GNOSIS Map Server</a></li>
+<li><a href="#_interactive_instruments_ldproxy">7.5.4. interactive instruments ldproxy</a></li>
+</ul>
+</li>
 </ul>
 </li>
 <li><a href="#Results">8. Results</a></li>
@@ -1597,13 +1605,128 @@ To obtain additional rights of use, visit <a href="http://www.opengeospatial.org
 </div>
 </div>
 </div>
+<div class="sect2">
+<h3 id="_proprietary_products"><a class="anchor" href="#_proprietary_products"></a>7.5. Proprietary products</h3>
+<div class="sect3">
+<h4 id="_cubewerx_cubeserv"><a class="anchor" href="#_cubewerx_cubeserv"></a>7.5.1. CubeWerx CubeServ</h4>
+<div class="paragraph">
+<p>The CubeWerx server ("cubeserv") is implemented in C and currently implements the following OGC web services:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>All conformance classes and recommendations of the OGC API - Features - Part 1: Core standard.</p>
+</li>
+<li>
+<p>Multiple conformance classes and recommendations of the draft OGC API - Records - Part 1: Core specification.</p>
+</li>
+<li>
+<p>Multiple conformance classes and recommendations of the draft OGC API - Coverages - Part 1: Core specification.</p>
+</li>
+<li>
+<p>Multiple conformance classes and recommendations of the draft OGC API - Processes - Part 1: Core specification.</p>
+</li>
+<li>
+<p>Multiple versions of the Web Map Service (WMS), Web Processing Service (WPS), Web Map Tile Service (WMTS) and Web Feature Service (WFS) standards</p>
+</li>
+<li>
+<p>A number of other "un-adopted" OGC web services including the Testbed-12 Web Integration Service, OWS-7 Engineering Report - GeoSynchronization Service, Web Object Service Implementation Specification.</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p>The cubeserv executable supports a wide variety of back ends including Oracle, MariaDB, SHAPE files, etc. It also supports a wide array of service-dependent output formats (e.g. GML, GeoJSON, Mapbox Vector Tiles, MapMP, etc.) and coordinate reference systems.</p>
+</div>
+</div>
+<div class="sect3">
+<h4 id="_creaf_miramon_map_server"><a class="anchor" href="#_creaf_miramon_map_server"></a>7.5.2. CREAF MiraMon Map Server</h4>
+<div class="paragraph">
+<p>The MiraMon Map Server is a CGI application encoded in C language that is part of the MiraMon Geographic Information System (GIS) &amp; Remote Sensing (RS) suite. Currently the server implements WMS, WMTS and partially implements WFS and WCS. It also partially implements the OGC Sensor Observation Service (SOS) standard. In order to perform efficiently, it requires a process preparing the data to be offered. It can interoperate with other vendors clients but combined with the MiraMon Map Client it offers more functionality, including functionality recently developed for the Catalan Data Cube.</p>
+</div>
+<div class="paragraph">
+<p>The software originally started 10 years ago as a WMS server in support of the Catalan Administration and CREAF data services.</p>
+</div>
+<div class="paragraph">
+<p>It includes prototype support for the draft OGC API - Maps and OGC API - Tiles specifications.</p>
+</div>
+</div>
+<div class="sect3">
+<h4 id="_gnosis_map_server"><a class="anchor" href="#_gnosis_map_server"></a>7.5.3. GNOSIS Map Server</h4>
+<div class="paragraph">
+<p>The GNOSIS Map Server is written in the eC programming language and supports multiple OGC API specifications. GNOSIS Map Server supports multiple encodings including GNOSIS Map Tiles (which can contain either vector data, gridded coverages, imagery, point clouds or 3D meshes), Mapbox Vector Tiles, GeoJSON, GeoECON, GML and MapML. An experimental server is available online at <a href="http://maps.ecere.com/geoapi" class="bare">http://maps.ecere.com/geoapi</a> and has been used in multiple OGC Innovation Program initiatives.</p>
+</div>
+</div>
+<div class="sect3">
+<h4 id="_interactive_instruments_ldproxy"><a class="anchor" href="#_interactive_instruments_ldproxy"></a>7.5.4. interactive instruments ldproxy</h4>
+<div class="paragraph">
+<p>ldproxy is an implementation of the OGC API family of specifications, based on the W3C/OGC Spatial Data on the Web Best Practices. It is written in Java (<a href="https://github.com/interactive-instruments/ldproxy">Source Code</a>) and is typically deployed using docker (<a href="https://hub.docker.com/r/iide/ldproxy/">DockerHub</a>). The software originally started in 2015 as a Web API for feature data based on WFS 2.0 capabilities. In addition to the JSON/XML encodings, an emphasis is placed on an intuitive HTML representation.</p>
+</div>
+<div class="paragraph">
+<p>The current version supports WFS 2.0 instances as well as PostgreSQL/PostGIS databases as backends. It implements all conformance classes and recommendations of "OGC API - Features - Part 1: Core" and "OGC API - Features- Part 2: Coordinate Reference Systems By Reference", as well as other draft extensions (Part 3 and Part 4). ldproxy also has draft implementations for additional resource types (Tiles, Styles).</p>
+</div>
+</div>
+</div>
 </div>
 </div>
 <div class="sect1">
 <h2 id="Results"><a class="anchor" href="#Results"></a>8. Results</h2>
 <div class="sectionbody">
 <div class="paragraph">
-<p>The code sprint included multiple software libraries, OWS implementations, OGC API implementations and different client applications. In addition to supporting OWS and OGC API standards, various ASF and OSGeo software products involved in the code sprint also supported a variety of OGC encoding standards.</p>
+<p>The code sprint included multiple software libraries, OWS implementations, OGC API implementations and different client applications. In addition to supporting OWS and OGC API standards, various ASF and OSGeo software products involved in the code sprint also supported a variety of OGC encoding standards. This section presents some of the results from the code sprint.</p>
+</div>
+<div id="img_openshere_dggs" class="imageblock text-center">
+<div class="content">
+<img src="images/openshere-dggs.png" alt="openshere dggs" width="600">
+</div>
+<div class="title">Figure 2. A screenshot of OpenSphere displaying a DGGS</div>
+</div>
+<div id="img_geoserver_styles" class="imageblock text-center">
+<div class="content">
+<img src="images/geoserver-ogcapi-styles.png" alt="geoserver ogcapi styles" width="600">
+</div>
+<div class="title">Figure 3. A screenshot of the collections offered by a GeoServer implementation of OGC API - Styles</div>
+</div>
+<div id="img_pygeoapi_dggs" class="imageblock text-center">
+<div class="content">
+<img src="images/pygeoapi-dggs.png" alt="pygeoapi dggs" width="600">
+</div>
+<div class="title">Figure 4. A screenshot of pygeoapi displaying a DGGS</div>
+</div>
+<div id="img_geoserver_maps" class="imageblock text-center">
+<div class="content">
+<img src="images/geoserver-ogcapi-maps.png" alt="geoserver ogcapi maps" width="600">
+</div>
+<div class="title">Figure 5. A screenshot of a map created from OS Open Zoomstack using a GeoServer implementation of OGC API - Maps</div>
+</div>
+<div id="img_geoapi" class="imageblock text-center">
+<div class="content">
+<img src="images/geoapi.png" alt="geoapi" width="600">
+</div>
+<div class="title">Figure 6. A screenshot of the NetBeans IDE running GeoAPI, Apache SIS and the UCAR netCDF library</div>
+</div>
+<div id="img_pygeoapi1" class="imageblock text-center">
+<div class="content">
+<img src="images/pygeoapi1.png" alt="pygeoapi1" width="600">
+</div>
+<div class="title">Figure 7. A screenshot of pygeoapi displaying a sample metadata record from the Dutch National GeoRegister</div>
+</div>
+<div id="img_geonetwork" class="imageblock text-center">
+<div class="content">
+<img src="images/geonetwork.png" alt="geonetwork" width="600">
+</div>
+<div class="title">Figure 8. A screenshot of GeoNetwork and the download buttons (right-hand side of the screen) for different supported formats</div>
+</div>
+<div id="img_cubewerx" class="imageblock text-center">
+<div class="content">
+<img src="images/cubewerx.png" alt="cubewerx" width="600">
+</div>
+<div class="title">Figure 9. A screenshot of the CubeWerx Ship Detection processes running on Sentinel data in the Amazon Web Services Cloud</div>
+</div>
+<div id="img_cubewerx2" class="imageblock text-center">
+<div class="content">
+<img src="images/cubewerx2.png" alt="cubewerx2" width="600">
+</div>
+<div class="title">Figure 10. Example output from the CubeWerx Ship Detection processes</div>
 </div>
 </div>
 </div>
