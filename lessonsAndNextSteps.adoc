@@ -2,8 +2,9 @@
 
 == Immediate Lessons
 
-* TBA
-* TBA
+* There is need to improve discovery of resources (e.g. landing pages) across multiple deployments. The binding aspects also need to be considered, for example potentially using actionable links. We need some form of harmonization on link relation types.
+* When the SWGs are defining the APIs they should define the default behavior. OWS needed several parameters to retrieve a resource, however for OGC APIs they should be designed to allow default behavior when params are not present.
+* The participants therefore recommended that implementers of code generating tools should make enhancements to address some of those shortcomings, for example support for dynamic resources and enabling semantic awareness to provide context to API components. There is also a fundamental limit in the specifications. This could potentially be addressed through support for templatedRef https://github.com/OAI/OpenAPI-Specification/issues/2453
 
 == Next Steps for the innovation side
 
