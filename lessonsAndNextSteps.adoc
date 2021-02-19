@@ -15,8 +15,13 @@
 * More experimentation is needed on workflows in relation to the OGC API - Processes - Part 3 : Workflows.
 * Further development of the DGGS API, including work on client applications and visualization
 * There is a need to advance OGC APIs and other OGC standards to enable the cataloguing and discovery of models (e.g. AI/Machine Learning models). We need to explore how to sufficiently describe the models.
+* The implications of OpenAPI 3.1, JSON Schema and Webhooks need to be examined and path towards transition identified.
+* Themes, trees, nesting, and other strategies need to be explored. This is needed because data providers often have thousands of datasets that they need to manage or publish.
+* Some integration of the MapML format concept with the OGC API offerings, for example into the HTML representation of features, to enhance the spatial indexing of HTML
 
 == Next Steps for the standards side
 
-* TBA
-* TBA
+* Associations in catalogues need to considered.
+* Enhancement of the Link Relations Register.
+* Landing page of landing pages could be standardised
+* Searchable collections in OGC APIs. includign col of col
