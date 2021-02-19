@@ -1,0 +1,3 @@
+==== OSGeo ZOO-Project
+
+ZOO-Project is a WPS (Web Processing Service) implementation written in C. It is an open source platform which implements the WPS 1.0.0 and WPS 2.0.0 standards edited by the Open Geospatial Consortium (OGC).

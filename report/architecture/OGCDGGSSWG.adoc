@@ -1,0 +1,3 @@
+==== OGC Discrete Global Grid Systems (DGGS)
+
+This standard specifies the core requirements and extension mechanisms for Discrete Global Grid Systems (DGGS). A DGGS is a spatial reference system that uses a hierarchical tessellation of cells to partition and address the globe. DGGS are characterized by the properties of their cell structure, geo-encoding, quantization strategy and associated mathematical functions. The OGC DGGS Abstract Specification supports the specification of standardized DGGS infrastructures that enable the integrated analysis of very large, multi-source, multi-resolution, multi-dimensional, distributed geospatial data. A prototype https://docs.ogc.org/per/20-039r2.html[DGGS API] was recently built in the OGC Testbed-16 initiative.

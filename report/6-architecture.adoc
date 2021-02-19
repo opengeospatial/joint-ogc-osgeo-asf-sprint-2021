@@ -1,0 +1,101 @@
+[[Architecture]]
+== High Level Architecture
+
+The focus of the sprint was on support of the development of the open geospatial standard across various open source software projects. Implementations of these draft standards were deployed in participants’ own infrastructure in order to build a solution with the architecture shown below in Figure 1.
+
+[#img_archietcture,reftext='{figure-caption} {counter:figure-num}']
+.High Level Overview of the Sprint Architecture
+image::images/figure1.png[width=600,align="center"]
+
+As illustrated the sprint architecture was designed with the view of allowing client applications to connect to different servers that implement open geospatial standards such as the suite of OGC API standards. The architecture also included several different software libraries that support open geospatial standards and enable the extraction, transformation and loading of geospatial data.
+
+
+=== Approved OGC Standards
+
+include::architecture/OGCAPIFeaturesSWG.adoc[]
+
+include::architecture/OGCDGGSSWG.adoc[]
+
+include::architecture/OGCGeoAPISWG.adoc[]
+
+include::architecture/OGCGeoPackageSWG.adoc[]
+
+=== Draft OGC Standards
+
+include::architecture/OGCAPICommonSWG.adoc[]
+
+include::architecture/OGCAPICoveragesSWG.adoc[]
+
+include::architecture/OGCAPIEDRSWG.adoc[]
+
+include::architecture/OGCAPIMapsSWG.adoc[]
+
+include::architecture/OGCAPIProcessesSWG.adoc[]
+
+include::architecture/OGCAPIRecordsSWG.adoc[]
+
+include::architecture/OGCRoutingSWG.adoc[]
+
+include::architecture/OGCAPIStylesSWG.adoc[]
+
+include::architecture/OGCAPITilesSWG.adoc[]
+
+=== OSGeo Projects
+
+include::architecture/OSGeoGeoHealthCheck.adoc[]
+
+include::architecture/OSGeoGeoNetwork.adoc[]
+
+include::architecture/OSGeoGeoNode.adoc[]
+
+include::architecture/OSGeoGeoServer.adoc[]
+
+include::architecture/MapML.adoc[]
+
+include::architecture/OSGeoGeoTrellis.adoc[]
+
+include::architecture/OSGeoGRASS.adoc[]
+
+include::architecture/OSGeoMapbender.adoc[]
+
+include::architecture/OSGeomapproxy.adoc[]
+
+include::architecture/OSGeoMapServer.adoc[]
+
+include::architecture/OSGeoMobilityDB.adoc[]
+
+include::architecture/OSGeoOSGeoLive.adoc[]
+
+include::architecture/OSGeoOWSLib.adoc[]
+
+include::architecture/OSGeopdal.adoc[]
+
+include::architecture/OSGeopgRouting.adoc[]
+
+include::architecture/OSGeoPostGIS.adoc[]
+
+include::architecture/OSGeoProj.adoc[]
+
+include::architecture/OSGeopycsw.adoc[]
+
+include::architecture/OSGeopygeoapi.adoc[]
+
+include::architecture/OSGeoQGIS.adoc[]
+
+include::architecture/OSGeoStetl.adoc[]
+
+include::architecture/OSGeoZOOProject.adoc[]
+
+=== ASF Projects
+
+include::architecture/ApacheActivemq.adoc[]
+
+include::architecture/ApacheCXF.adoc[]
+
+include::architecture/ApacheJena.adoc[]
+
+include::architecture/ApacheKaraf.adoc[]
+
+include::architecture/ApacheSuperset.adoc[]
+
+include::architecture/ApacheTomcat.adoc[]

@@ -1,0 +1,3 @@
+==== OSGeo GDAL
+
+There was an announcement that an experimental version of a https://gdal.org/drivers/raster/ogcapi.html[GDAL driver] that supports OGC API - Tiles and OGC API - Coverages has recently been implemented. The GDAL driver has been developed to demonstrate work related to the “Modular OGC API Workflows” initiative that is led by Ecere and supported by Natural Resources Canada. Much of the discussion regarding the GDAL driver focused on improving the documentation.

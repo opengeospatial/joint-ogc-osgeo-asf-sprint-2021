@@ -1,0 +1,4 @@
+
+==== OGC API - Processes
+
+Participants experimented with the implementation of OGC API - Processes through use of the Spring Framework. The Spring Framework is an application framework for the Java platform. Spring has been particularly popular amongst Java developers for enabling the implementation of RESTful APIs and microservices. Process description and process execution were successfully implemented. Some of the considerations include workflows, transactions and security.

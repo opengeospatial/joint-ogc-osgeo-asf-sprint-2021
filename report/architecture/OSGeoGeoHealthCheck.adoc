@@ -1,0 +1,3 @@
+==== OSGeo GeoHealthCheck
+
+GeoHealthCheck is a Python application to support monitoring OGC Web Services uptime and availability.

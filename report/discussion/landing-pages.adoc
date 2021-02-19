@@ -1,0 +1,5 @@
+==== Landing Pages
+
+Amongst the cross cutting issues to be discussed during the code sprint was the issue of discovery of landing pages. Currently OGC APIs offer a landing page concept which serves as the entrypoint for discovery of other resources offered by an API. The sprint participants highlighted the potential benefit of having a "landing page of landing pages" that could enable a client application to discover other landing pages. Participants also observed that an OGC API - Records implementation could provide the discovery functionality needed to discover landing pages of other OGC APIs.
+
+The participants observed the discovery of landing pages to be particularly useful in a microservice-based architecture. The microservices architecture deploys application code into small and manageable containers that can run independently of others. Whereas the microservices approach offers some benefits such as isolation of many types of faults, it can also introduce challenges in memory consumption as each microservice runs in an independent container.

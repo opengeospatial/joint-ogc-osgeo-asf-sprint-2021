@@ -1,0 +1,3 @@
+==== Apache ActiveMQ
+
+The participants observed that ActiveMQ is relevant to the concepts discussed in the OGC Publish/Subscribe (PubSub) 1.0 standard and the draft PubSub Whitepaper. OGC PubSub 1.0 is an interface specification that supports the core components and concepts of the Publish/Subscribe message exchange pattern with OGC Web Services. Another observation made was that ActiveMQ is potentially related to the draft GeoSynchronization Service (GSS) specification. The draft GSS specification describes a service that allows data collectors to propose changes to be made to a data provider's features.

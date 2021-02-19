@@ -1,0 +1,7 @@
+==== OSGeo GeoServer
+
+openlayers does not have support for OGC API - Maps. So the GeoServer team observed that
+
+OGC APIs expect parameters to be case sensitive. In some cases however, for example with OpenLayers, the parameters can be of different case.
+
+The team observed that there is a need to provide a way of displaying layerGroups. At the moment they are displayed as collections.

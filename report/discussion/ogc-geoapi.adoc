@@ -1,0 +1,5 @@
+==== GeoAPI
+
+There was a discussion about supporting the library of UCAR Unidata.  The participants sought to make UCAR's library an optional item that could be used alongside implementations of the GeoAPI. The UCAR library supports netCDF - a set of software libraries and self-describing, machine-independent data formats that support the creation, access, and sharing of array-oriented scientific data. A GitHub https://github.com/Unidata/geoapi-netcdf-java[repository] was created to support this initiative.
+
+There was also discussion about the possibility of advancing the Python port of the GeoAPI library. Work has already started on the Python port. Other languages were also consider, for example NodeJS. Volunteers were invited to lead GeoAPI efforts on other programming languages.

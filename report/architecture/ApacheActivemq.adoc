@@ -1,0 +1,3 @@
+==== Apache Activemq
+
+Apache ActiveMQ™ is an open source, multi-protocol, Java-based messaging server. It supports industry standard protocols so users get the benefits of client choices across a broad range of languages and platforms.

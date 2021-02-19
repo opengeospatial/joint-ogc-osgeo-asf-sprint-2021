@@ -1,0 +1,3 @@
+==== MapML
+
+The MapML team discussed with the GeoServer team about the progress for upgrading from a community module to core. There was some work done on feature queries and navigation. The participants encountered some issues relating to Java 8 and Maven, however the issues were successfully resolved. The team planned to continue server improvement.

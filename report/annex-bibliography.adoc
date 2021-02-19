@@ -1,0 +1,16 @@
+[appendix]
+[[Bibliography]]
+= Bibliography
+
+bibliography::[]
+// *****************************************************************************
+//  For citations that also have an associated URL, the URL should be inserted inline as in https://www.ogc.org/[this example]. An endnote citation should still also be included (just in case the link stops working in the future).
+// *****************************************************************************
+
+// *****************************************************************************
+// The bibliography is automatically built. All you need to do is to provide your citation information in the file resource/bibtex-file.bib
+
+// You can add citation keys anywhere in the text, following the following syntax: cite:[NameYear], e.g. cite:[VanZyl2009]
+
+// More information is provided here: https://github.com/asciidoctor/asciidoctor-bibtex
+// *****************************************************************************

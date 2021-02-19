@@ -1,0 +1,3 @@
+==== OGC API - Maps and OGC API - Tiles
+
+Discussed how to transition from one approach of serving tiles to another way. The challenge is to combine a collection with a style. One suggestion is that haying the map before the style on the URL may improve access. The GeoServer team expressed their preference for that sequence (i.e. map/style/).
