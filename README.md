@@ -43,7 +43,7 @@ The goal of the code sprint is to advance support of open geospatial standards w
 
 
 * [Sprint Description](./about.adoc)
-* [API Specs](./specs.adoc)
+* [Specs](./specs.adoc)
 * [Sprint Logistics](./logistics.adoc)
 * [Schedule/Agenda](./agenda.adoc)
 * [Implementations](./implementations.adoc)
