@@ -1,0 +1,3 @@
+==== Apache Superset
+
+Apache Superset is an open-source software cloud-native application for data exploration and data visualization able to handle data at petabyte scale.

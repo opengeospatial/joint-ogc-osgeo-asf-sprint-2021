@@ -1,0 +1,32 @@
+== Terms and definitions
+
+
+
+For the purposes of this report, the definitions specified in Clause 4 of the OWS Common Implementation Standard https://portal.opengeospatial.org/files/?artifact_id=38867&version=2[OGC 06-121r9] shall apply. In addition, the following terms and definitions apply.
+
+&#9679; API ::
+
+  An Application Programming Interface (API) is a standard set of documented and supported functions and procedures that expose the capabilities or data of an operating system, application, or service to other applications (adapted from ISO/IEC TR 13066-2:2016).
+
+&#9679; coordinate reference system ::
+
+ A coordinate system that is related to the real world by a datum term name (source: ISO 19111)
+
+&#9679; OpenAPI Document ::
+
+ A document (or set of documents) that defines or describes an API. An OpenAPI definition uses and conforms to the OpenAPI Specification (https://www.openapis.org)
+
+&#9679; Web API ::
+
+ API using an architectural style that is founded on the technologies of the Web [source: OGC API - Features - Part 1: Core]
+
+
+===	Abbreviated terms
+
+.NOTE: The abbreviated terms clause gives a list of the abbreviated terms and the symbols necessary for understanding this document. All symbols should be listed in alphabetical order. Some more frequently used abbreviated terms are provided below as examples.
+
+* *API* Application Programming Interface
+* *ASF* Apache Software Foundation
+* *CRS* Coordinate Reference System
+* *OGC* Open Geospatial Consortium
+* *OSGeo* Open Source Geospatial Foundation

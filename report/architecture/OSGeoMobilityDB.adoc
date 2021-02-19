@@ -1,0 +1,3 @@
+==== OSGeo MobilityDB
+
+MobilityDB is a database management system for moving object geospatial trajectories, such as GPS traces.

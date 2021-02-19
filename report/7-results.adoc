@@ -1,0 +1,41 @@
+[[Results]]
+== Results
+
+The code sprint included multiple software libraries, OWS implementations, OGC API implementations and different client applications. In addition to supporting OWS and OGC API standards, various ASF and OSGeo software products involved in the code sprint also supported a variety of OGC encoding standards. This section presents some of the results from the code sprint.
+
+[#img_openshere_dggs,reftext='{figure-caption} {counter:figure-num}']
+.A screenshot of OpenSphere displaying a DGGS
+image::images/openshere-dggs.png[width=600,align="center"]
+
+
+[#img_geoserver_styles,reftext='{figure-caption} {counter:figure-num}']
+.A screenshot of the collections offered by a GeoServer implementation of OGC API - Styles
+image::images/geoserver-ogcapi-styles.png[width=600,align="center"]
+
+[#img_pygeoapi_dggs,reftext='{figure-caption} {counter:figure-num}']
+.A screenshot of pygeoapi displaying a DGGS
+image::images/pygeoapi-dggs.png[width=600,align="center"]
+
+[#img_geoserver_maps,reftext='{figure-caption} {counter:figure-num}']
+.A screenshot of a map created from OS Open Zoomstack using a GeoServer implementation of OGC API - Maps
+image::images/geoserver-ogcapi-maps.png[width=600,align="center"]
+
+[#img_geoapi,reftext='{figure-caption} {counter:figure-num}']
+.A screenshot of the NetBeans IDE running GeoAPI, Apache SIS and the UCAR netCDF library
+image::images/geoapi.png[width=600,align="center"]
+
+[#img_pygeoapi1,reftext='{figure-caption} {counter:figure-num}']
+.A screenshot of pygeoapi displaying a sample metadata record from the Dutch National GeoRegister
+image::images/pygeoapi1.png[width=600,align="center"]
+
+[#img_geonetwork,reftext='{figure-caption} {counter:figure-num}']
+.A screenshot of GeoNetwork and the download buttons (right-hand side of the screen) for different supported formats
+image::images/geonetwork.png[width=600,align="center"]
+
+[#img_cubewerx,reftext='{figure-caption} {counter:figure-num}']
+.A screenshot of the CubeWerx Ship Detection processes running on Sentinel data in the Amazon Web Services Cloud
+image::images/cubewerx.png[width=600,align="center"]
+
+[#img_cubewerx2,reftext='{figure-caption} {counter:figure-num}']
+.Example output from the CubeWerx Ship Detection processes
+image::images/cubewerx2.png[width=600,align="center"]

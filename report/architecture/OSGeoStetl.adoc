@@ -1,0 +1,3 @@
+==== OSGeo Stetl
+
+Stetl, Streaming ETL, is an open source (GNU GPL) toolkit for the transformation (ETL) of geospatial data. Stetl is based on existing ETL tools like GDAL/OGR and XSLT.

@@ -1,0 +1,4 @@
+
+==== OGC GeoPackage
+
+GeoPackage is an open, platform-independent, portable, self-describing, compact format for transferring geospatial information. The GeoPackage Encoding Standard governs the rules and requirements for storing content in an SQLite database. The content may include geospatial and non-geospatial content. The standard defines the schema for a GeoPackage, including table definitions, integrity assertions, format limitations, and content constraints.

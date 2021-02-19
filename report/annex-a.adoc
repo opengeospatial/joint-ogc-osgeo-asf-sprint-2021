@@ -1,0 +1,59 @@
+[appendix]
+[[OrganizationAnnex]]
+= Organization
+
+
+=== Schedule / Agenda
+
+All times on the agenda are in UTC-5/EST (New York time).
+
+&#10036; means that the session will be in the main Gotomeeting virtual room.
+
+[cols="3,7,7a",options="header",]
+|===
+|*Time* (EST) |*What* |*Lead*
+3+|*Webinar (GotoMeeting) 12th February 2021 at 10:00* https://www.timeanddate.com/worldclock/meetingtime.html?iso=20210212&p1=224&p2=179&p3=16&p4=44&p5=240&p7=136[See World Clock]
+|5 minutes | Welcome Remarks | Gobe Hobona (OGC), Angelos Tzotsos (OSGeo), Tom Kralidis (OSGeo) and Martin Desruisseaux (ASF)
+|5 minutes | Sponsor Remarks | Sponsor representative
+|10 minutes | Overview of participating OGC standards working groups | Gobe Hobona (OGC)
+|10 minutes | Overview of participating OSGeo projects | Angelos Tzotsos , Tom Kralidis (OSGeo)
+|10 minutes | Overview of participating ASF projects | Martin Desruisseaux (ASF)
+|20 minutes |Questions & Answers|
+3+|*17th February 2021* https://www.timeanddate.com/worldclock/meetingtime.html?iso=20210217&p1=224&p2=179&p3=16&p4=44&p5=240&p7=136[See World Clock]
+|02:00-03:00 |Networking &#10036; | A chance to network and meet other participants before the day starts.
+|03:00-07:00 |Break |
+|07:00-07:05 |Welcome & objectives &#10036; | Gobe Hobona (OGC), Angelos Tzotsos (OSGeo), Tom Kralidis (OSGeo) and Martin Desruisseaux (ASF)
+|07:05-07:10 |Sprint programme & way of working &#10036; |
+|07:10-07:20 |Sprint goals for OGC standards working groups &#10036;| Gobe Hobona (OGC)
+|07:20-07:30 |Sprint goals for OSGeo projects &#10036;| Angelos Tzotsos , Tom Kralidis (OSGeo)
+|07:30-07:40 |Sprint goals for ASF projects &#10036;| Martin Desruisseaux (ASF)
+|07:40-08:00 |Questions and Answers &#10036;|
+|08:00-09:00 |5-minute pitch by each project or working group &#10036;|
+|09:00-13:00 |Practical work in break-out rooms|
+|13:00-13:30 |Break |
+|13:30-16:30 |Practical work in break-out rooms|
+|16:30-17:30 |Daily brief back &#10036;|
+3+|*18th February 2021* https://www.timeanddate.com/worldclock/meetingtime.html?iso=20210218&p1=224&p2=179&p3=16&p4=44&p5=240&p7=136[See World Clock]
+|02:00-03:00 |Networking &#10036; | A chance to network and meet other participants before the day starts.
+|03:00-07:00 |Break |
+|07:00-09:00 |Practical work in break-out rooms|
+|09:00-10:00 |a short stand-up and preliminary demonstration &#10036; |
+|10:00-12:30 |Practical work in break-out rooms|
+|12:30-13:00 |Issues / concerns &#10036;|
+|13:00-13:30 |Break |
+|13:30-16:30 |Practical work in break-out rooms|
+|16:30-17:30 |Daily brief back &#10036;|
+3+|*19th February 2021* https://www.timeanddate.com/worldclock/meetingtime.html?iso=20210219&p1=224&p2=179&p3=16&p4=44&p5=240&p7=136[See World Clock]
+|02:00-03:00 |Networking &#10036; | A chance to network and meet other participants before the day starts.
+|03:00-07:00 |Break |
+|07:00-09:00 |Practical work in break-out rooms|
+|09:00-10:00 |a short stand-up and preliminary demonstration &#10036; |
+|10:00-12:30 |Practical work in break-out rooms|
+|12:30-13:00 |Issues / concerns &#10036;|
+|13:00-13:30 |Break |
+|13:30-15:30 |Practical work in break-out rooms|
+|15:30-16:30
+a|Demonstration &#10036;
+|
+|16:30-17:30 |Wrap-up: immediate lessons, next steps, thanks and goodbyes &#10036; | Gobe Hobona (OGC), Angelos Tzotsos (OSGeo), Tom Kralidis (OSGeo) and Martin Desruisseaux (ASF)
+|===

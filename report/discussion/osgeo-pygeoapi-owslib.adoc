@@ -1,0 +1,5 @@
+==== pygeoapi and OWSLib
+
+There was discussion about enabling pygeoapi to support x-array databases. An xarray database supports the labelling of data to indicate dimensions, coordinates and other attributes.
+
+On the OWSLib side, there was discussion about doing an OGC API client. One of the options considered for adding to OWSLib was pydantic, a python-based framework for data validation. There was also discussion about doing OWS documentation in jupyter using Sphinx.

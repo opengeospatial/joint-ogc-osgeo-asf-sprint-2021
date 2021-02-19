@@ -1,0 +1,3 @@
+==== Organization
+
+A key constraint for code sprints is the time available to organize and hold the events. This engineering report therefore includes an Annex, <<OrganizationAnnex>>, that describes the organization of the code sprint. It is envisaged that by documenting the process for organizing the code sprint, future code sprints can also optimize their processes. 

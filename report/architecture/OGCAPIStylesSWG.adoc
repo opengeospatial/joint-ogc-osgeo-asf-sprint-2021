@@ -1,0 +1,3 @@
+==== OGC API - Styles
+
+OGC API - Styles describes the interface and exchange of styling parameters and instructions. The construction of symbology components of styles is addressed in OGC Symbol Encoding Conceptual Model: Core Part and multiple OGC and other style encoding standards.

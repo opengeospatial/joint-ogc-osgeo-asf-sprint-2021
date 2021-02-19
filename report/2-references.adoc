@@ -1,0 +1,32 @@
+[[references]]
+== References
+
+The following normative documents are referenced in this document.
+
+* http://docs.ogc.org/is/17-069r3/17-069r3.html[OGC: OGC 17-069r3, OGC API - Features - Part 1: Core 1.0 Standard]
+
+* http://docs.ogc.org/DRAFTS/21-000.html[OGC: OGC 21-000,OGC API - Routes - Part 1: Core 1.0 (Draft)]
+
+* http://docs.opengeospatial.org/is/15-078r6/15-078r6.html[OGC: OGC 15-078r6, OGC SensorThings API Part 1: Sensing 1.0 Standard]
+
+* https://portal.ogc.org/files/?artifact_id=71648[OGC: OGC 09-083r4, GeoAPI 3.0 Implementation Standard with corrigendum 3.0.1]
+
+* http://docs.ogc.org/DRAFTS/19-087.html[OGC: OGC 19-087, OGC API - Coverages - Part 1: Core 1.0 (Draft)]
+
+* http://docs.ogc.org/DRAFTS/20-058.html[OGC: OGC 20-058, OGC API - Maps - Part 1: Core 1.0 (Draft)]
+
+* http://docs.ogc.org/DRAFTS/20-057.html[OGC: OGC 20-057, OGC API - Tiles - Part 1: Core 1.0 (Draft)]
+
+* http://docs.ogc.org/DRAFTS/18-062.html[OGC: OGC 20-009, OGC API - Processes - Part 1: Core 1.0 (Draft)]
+
+* http://docs.ogc.org/DRAFTS/20-009.html[OGC: OGC 20-009, OGC API - Styles - Part 1: Core 1.0 (Draft)]
+
+* http://docs.ogc.org/DRAFTS/19-072.html[OGC: OGC 19-072, OGC API - Common - Part 1: Core 1.0 (Draft)]
+
+* http://docs.ogc.org/DRAFTS/20-004.html[OGC: OGC 20-004, OGC API - Records - Part 1: Core 1.0 (Draft)]
+
+* http://docs.ogc.org/DRAFTS/19-086.html[OGC: OGC 19-086, OGC API - Environmental Data Retrieval 1.0 (Draft)]
+
+* https://github.com/OAI/OpenAPI-Specification/blob/master/versions/3.0.1.md[OpenAPI Specification]
+
+* https://maps4html.org/MapML/spec/[Map Markup Language (MapML)]

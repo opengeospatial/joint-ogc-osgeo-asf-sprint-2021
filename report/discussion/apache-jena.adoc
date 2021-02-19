@@ -1,0 +1,5 @@
+==== Apache Jena
+
+The Apache Jena team discussed an approach with the GeoServer team for enabling the export of a feature collection from QGIS to GeoServer, and then to https://jena.apache.org/documentation/fuseki2/[Apache Jena Fuseki]. Fuseki offers a SPARQL Server interface on top of Apache Jena. The groups concluded that it would be possible to export create a plug-in for QGIS that allows it to post GeoJSON to GeoServer. An additional plug-in could then be implemented to export https://geojson.org/geojson-ld/[GeoJSON-LD] from GeoServer to Fuseki.
+
+The GeoJSON-LD document would be interpreted as https://www.w3.org/TR/rdf11-concepts/[RDF] triples by Fuseki. There was also discussion about how to represent the schema of the feature collection. https://www.w3.org/TR/shacl/[SHACL] was identified as a possible candidate for representing the schema of the feature collection. Jena supports SHACL.

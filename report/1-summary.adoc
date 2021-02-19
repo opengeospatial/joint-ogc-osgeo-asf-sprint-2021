@@ -1,0 +1,61 @@
+== Subject
+
+The subject of this Engineering Report (ER) is a code sprint that was held from 17 to 19 February 2021 to advance support of open geospatial standards within the developer community, whilst also advancing the standards themselves.  The code sprint was hosted by the Open Geospatial Consortium (OGC), the Apache Software Foundation (ASF), and Open Source Geospatial Foundation (OSGeo). The event was sponsored by Ordnance Survey (OS) and GeoCat BV, and held as a completely virtual event.
+
+== Executive Summary
+
+This Engineering Report (ER) summarizes the main achievements of the Joint OGC OSGeo ASF Code Sprint, conducted between February 17th and 19th, 2021. The sprint served to accelerate the support of open geospatial standards within the developer community.
+
+The Open Geospatial Consortium (OGC) is an international consortium of more than 500 businesses, government agencies, research organizations, and universities driven to make geospatial (location) information and services FAIR - Findable, Accessible, Interoperable, and Reusable. The consortium consists of Standards Working Groups (SWGs) that have responsibility for designing the draft specifications that evolve to become standards. The sprint objectives for the SWGs were:
+
+* Develop prototype implementations of OGC standards, including implementations of draft OGC APIs standards
+* Test the prototype implementations
+* Provide feedback to the Editor about what worked and what did not
+* Provide feedback about the specification document
+
+The Open Source Geospatial Foundation (OSGeo) is a not-for-profit organization whose mission is to foster global adoption of open geospatial technology by being an inclusive software foundation devoted to an open philosophy and participatory community driven development. The foundation consists of projects that develop open source software products. The sprint objectives for OSGeo projects were:
+
+* Release new software versions
+* Fix open issues
+* Develop new features
+* Improve documentation, translations
+* Develop prototype implementations of OGC standards
+
+The Apache Software Foundation (ASF) is an all-volunteer community comprising 813 individual Members and 8,000 Committers on six continents stewarding more than 200 million lines of code, and overseeing more than 350 Apache projects and their communities. The sprint objectives for ASF projects were:
+
+* Improve support of OGC standards (GeoSPARQL, Filters, …)
+* Improve visualisation capabilities (map, …)
+* Improve documentation (web site, …)
+* Improve interoperability with other libraries (GeoAPI)
+
+Part of the motivation for holding the sprint was the growing uptake of location across the global developer communities. The code sprint brought together developers of Open Standards and Open Source Software, providing a rare opportunity for developers across these communities to focus on common challenges within a short space of time in a shared collaborative environment.
+
+
+===	Document contributor contact points
+
+All questions regarding this document should be directed to the editor or the contributors:
+
+*Contacts*
+[width="80%",options="header",caption=""]
+|====================
+|Name |Organization | Role
+|Gobe Hobona | Open Geospatial Consortium | Editor
+|Angelos Tzotsos | Open Soure Geospatial Foundation |Editor
+|Tom Kralidis | Meteorological Service of Canada |Editor
+|Martin Desruisseaux | Geomatys | Editor
+|((Full Name)) | ((from org)) |((Editor/Contributor))
+|((Full Name)) | ((from org)) |((Editor/Contributor))
+|((Full Name)) | ((from org)) |((Editor/Contributor))
+|((Full Name)) | ((from org)) |((Editor/Contributor))
+|((Full Name)) | ((from org)) |((Editor/Contributor))
+|((Full Name)) | ((from org)) |((Editor/Contributor))
+|====================
+
+// *****************************************************************************
+// Editors please do not change the Foreword.
+// *****************************************************************************
+=== Foreword
+
+Attention is drawn to the possibility that some of the elements of this document may be the subject of patent rights. The Open Geospatial Consortium shall not be held responsible for identifying any or all such patent rights.
+
+Recipients of this document are requested to submit, with their comments, notification of any relevant patent claims or other intellectual property rights of which they may be aware that might be infringed by any implementation of the standard set forth in this document, and to provide supporting documentation.

@@ -1,0 +1,12 @@
+[[Overview]]
+== Overview
+
+Section 6 introduces the code sprint and lists the affiliations of the registered participants.
+
+Section 7 presents the high level architecture of the code sprint, and describes the software products and OGC standards that were deployed in the code sprint.
+
+Section 8 presents a summary of the results of the code sprints.
+
+Section 9 discusses some of the issues raised and explored during the code sprint.
+
+Section 10 summarises the main conclusions and makes recommendations for future work.
