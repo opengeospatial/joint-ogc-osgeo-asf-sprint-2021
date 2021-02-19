@@ -109,3 +109,5 @@ include::architecture/CREAFMiraMon.adoc[]
 include::architecture/EcereGNOSIS.adoc[]
 
 include::architecture/ii_ldproxy.adoc[]
+
+include::architecture/noaanwsedr.adoc[]
