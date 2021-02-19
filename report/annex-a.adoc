@@ -3,7 +3,7 @@
 = Organization
 
 
-== Schedule / Agenda
+=== Schedule / Agenda
 
 All times on the agenda are in UTC-5/EST (New York time).
 
