@@ -42,35 +42,19 @@ include::architecture/OGCAPITilesSWG.adoc[]
 
 === OSGeo Projects
 
-include::architecture/OSGeoGeoHealthCheck.adoc[]
-
 include::architecture/OSGeoGeoNetwork.adoc[]
 
 include::architecture/OSGeoGeoNode.adoc[]
 
 include::architecture/OSGeoGeoServer.adoc[]
 
-include::architecture/MapML.adoc[]
-
-include::architecture/OSGeoGeoTrellis.adoc[]
-
 include::architecture/OSGeoGRASS.adoc[]
 
 include::architecture/OSGeoMapbender.adoc[]
 
-include::architecture/OSGeomapproxy.adoc[]
-
 include::architecture/OSGeoMapServer.adoc[]
 
-include::architecture/OSGeoMobilityDB.adoc[]
-
 include::architecture/OSGeoOSGeoLive.adoc[]
-
-include::architecture/OSGeoOWSLib.adoc[]
-
-include::architecture/OSGeopdal.adoc[]
-
-include::architecture/OSGeopgRouting.adoc[]
 
 include::architecture/OSGeoPostGIS.adoc[]
 
@@ -78,9 +62,27 @@ include::architecture/OSGeoProj.adoc[]
 
 include::architecture/OSGeopycsw.adoc[]
 
-include::architecture/OSGeopygeoapi.adoc[]
-
 include::architecture/OSGeoQGIS.adoc[]
+
+=== OSGeo Community Projects
+
+include::architecture/OSGeoGeoHealthCheck.adoc[]
+
+include::architecture/MapML.adoc[]
+
+include::architecture/OSGeoGeoTrellis.adoc[]
+
+include::architecture/OSGeomapproxy.adoc[]
+
+include::architecture/OSGeoMobilityDB.adoc[]
+
+include::architecture/OSGeoOWSLib.adoc[]
+
+include::architecture/OSGeopdal.adoc[]
+
+include::architecture/OSGeopgRouting.adoc[]
+
+include::architecture/OSGeopygeoapi.adoc[]
 
 include::architecture/OSGeoStetl.adoc[]
 
