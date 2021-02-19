@@ -1,0 +1,3 @@
+==== NOAA NWS EDR API
+
+The National Weather Service deployed an instance of the OGC API - Environmental Data Retrieval candidate standard.
