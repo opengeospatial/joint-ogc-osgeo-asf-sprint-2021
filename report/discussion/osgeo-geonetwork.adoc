@@ -1,0 +1,16 @@
+==== OSGeo GeoNetwork
+
+GeoNetwork team worked on a refactor of the code, related to OGC API Records. 
+In previous iterations the YAML files provided by OGC were used to build a java skeleton. 
+With the refactor the openapi document is generated from java code using the springfox library.
+This allows us to add some properties and methods which are not in the standard (yet).
+
+image::images/geonetwork.png[width=400,align="center"]
+
+For example GeoNetwork provides DCAT, schema.org, Atom outputs of Metadata records in various encodings, 
+such as html, json, (iso19139) xml, json-ld, rdf/xml and turtle.
+
+Discussions from the sprint are documented:
+- Add the thumbnail/graphicoverview fiels to the core record model https://github.com/opengeospatial/ogcapi-records/issues/94
+- Start an initiative to create an extension for Facet Statistics https://github.com/opengeospatial/ogcapi-records/issues/52
+- Multilingual aspects of metadata https://github.com/opengeospatial/ogcapi-records/issues/91

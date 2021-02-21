@@ -25,7 +25,13 @@ include::discussion/osgeo-pgrouting.adoc[]
 
 include::discussion/osgeo-gdal.adoc[]
 
+include::discussion/osgeo-geonetwork.adoc[]
+
+include::discussion/osgeo-geoserver.adoc[]
+
 include::discussion/osgeo-grass.adoc[]
+
+include::discussion/osgeo-qgis.adoc[]
 
 include::discussion/apache-activemq.adoc[]
 
