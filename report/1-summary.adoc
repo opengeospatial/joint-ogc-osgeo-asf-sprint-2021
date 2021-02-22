@@ -126,7 +126,7 @@ All questions regarding this document should be directed to the editor or the co
 |	Francesco Bartoli	|	Geobeyond Srl	| Contributor
 |	Astrid Emde	|	Open Source Geospatial Foundation	| Contributor
 |====================
-
+ 
 // *****************************************************************************
 // Editors please do not change the Foreword.
 // *****************************************************************************
