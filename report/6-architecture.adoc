@@ -102,6 +102,10 @@ include::architecture/ApacheSuperset.adoc[]
 
 include::architecture/ApacheTomcat.adoc[]
 
+=== Other open source
+
+include::architecture/ii_ldproxy.adoc[]
+
 === Proprietary products
 
 include::architecture/CubeWerxCubeServ.adoc[]
@@ -109,7 +113,5 @@ include::architecture/CubeWerxCubeServ.adoc[]
 include::architecture/CREAFMiraMon.adoc[]
 
 include::architecture/EcereGNOSIS.adoc[]
-
-include::architecture/ii_ldproxy.adoc[]
 
 include::architecture/noaanwsedr.adoc[]
