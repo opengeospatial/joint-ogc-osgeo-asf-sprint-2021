@@ -802,13 +802,17 @@ To obtain additional rights of use, visit <a href="http://www.opengeospatial.org
 <li><a href="#_apache_tomcat">7.5.6. Apache Tomcat</a></li>
 </ul>
 </li>
-<li><a href="#_proprietary_products">7.6. Proprietary products</a>
+<li><a href="#_other_open_source">7.6. Other open source</a>
 <ul class="sectlevel3">
-<li><a href="#_cubewerx_cubeserv">7.6.1. CubeWerx CubeServ</a></li>
-<li><a href="#_creaf_miramon_map_server">7.6.2. CREAF MiraMon Map Server</a></li>
-<li><a href="#_gnosis_map_server">7.6.3. GNOSIS Map Server</a></li>
-<li><a href="#_interactive_instruments_ldproxy">7.6.4. interactive instruments ldproxy</a></li>
-<li><a href="#_noaa_nws_edr_api">7.6.5. NOAA NWS EDR API</a></li>
+<li><a href="#_ldproxy">7.6.1. ldproxy</a></li>
+</ul>
+</li>
+<li><a href="#_proprietary_products">7.7. Proprietary products</a>
+<ul class="sectlevel3">
+<li><a href="#_cubewerx_cubeserv">7.7.1. CubeWerx CubeServ</a></li>
+<li><a href="#_creaf_miramon_map_server">7.7.2. CREAF MiraMon Map Server</a></li>
+<li><a href="#_gnosis_map_server">7.7.3. GNOSIS Map Server</a></li>
+<li><a href="#_noaa_nws_edr_api">7.7.4. NOAA NWS EDR API</a></li>
 </ul>
 </li>
 </ul>
@@ -832,9 +836,12 @@ To obtain additional rights of use, visit <a href="http://www.opengeospatial.org
 <li><a href="#_pygeoapi_and_owslib">9.2.6. pygeoapi and OWSLib</a></li>
 <li><a href="#_pgrouting">9.2.7. pgRouting</a></li>
 <li><a href="#_osgeo_gdal">9.2.8. OSGeo GDAL</a></li>
-<li><a href="#_osgeo_grass_gis_2">9.2.9. OSGeo GRASS GIS</a></li>
-<li><a href="#_apache_activemq_2">9.2.10. Apache ActiveMQ</a></li>
-<li><a href="#_apache_jena_2">9.2.11. Apache Jena</a></li>
+<li><a href="#_osgeo_geonetwork_2">9.2.9. OSGeo GeoNetwork</a></li>
+<li><a href="#_osgeo_geoserver_2">9.2.10. OSGeo GeoServer</a></li>
+<li><a href="#_osgeo_grass_gis_2">9.2.11. OSGeo GRASS GIS</a></li>
+<li><a href="#_osgeo_qgis_2">9.2.12. OSGeo QGIS</a></li>
+<li><a href="#_apache_activemq_2">9.2.13. Apache ActiveMQ</a></li>
+<li><a href="#_apache_jena_2">9.2.14. Apache Jena</a></li>
 </ul>
 </li>
 <li><a href="#_lessons_learnt">9.3. Lessons Learnt</a></li>
@@ -1617,9 +1624,21 @@ To obtain additional rights of use, visit <a href="http://www.opengeospatial.org
 </div>
 </div>
 <div class="sect2">
-<h3 id="_proprietary_products"><a class="anchor" href="#_proprietary_products"></a>7.6. Proprietary products</h3>
+<h3 id="_other_open_source"><a class="anchor" href="#_other_open_source"></a>7.6. Other open source</h3>
 <div class="sect3">
-<h4 id="_cubewerx_cubeserv"><a class="anchor" href="#_cubewerx_cubeserv"></a>7.6.1. CubeWerx CubeServ</h4>
+<h4 id="_ldproxy"><a class="anchor" href="#_ldproxy"></a>7.6.1. ldproxy</h4>
+<div class="paragraph">
+<p>ldproxy is an implementation of the OGC API family of specifications, inspired on the W3C/OGC Spatial Data on the Web Best Practices. ldproxy is developed by interactive instruments, written in Java (<a href="https://github.com/interactive-instruments/ldproxy">Source Code</a>) and is typically deployed using docker (<a href="https://hub.docker.com/r/iide/ldproxy/">DockerHub</a>). The software originally started in 2015 as a Web API for feature data based on WFS 2.0 capabilities. In addition to the JSON/XML encodings, an emphasis is placed on an intuitive HTML representation.</p>
+</div>
+<div class="paragraph">
+<p>The current version supports WFS 2.0 instances as well as PostgreSQL/PostGIS databases as backends. It implements all conformance classes and recommendations of "OGC API - Features - Part 1: Core" and "OGC API - Features- Part 2: Coordinate Reference Systems By Reference", as well as other draft extensions (including Part 3 and Part 4). ldproxy also has draft implementations for additional resource types (Tiles, Styles).</p>
+</div>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_proprietary_products"><a class="anchor" href="#_proprietary_products"></a>7.7. Proprietary products</h3>
+<div class="sect3">
+<h4 id="_cubewerx_cubeserv"><a class="anchor" href="#_cubewerx_cubeserv"></a>7.7.1. CubeWerx CubeServ</h4>
 <div class="paragraph">
 <p>The CubeWerx server ("cubeserv") is implemented in C and currently implements the following OGC web services:</p>
 </div>
@@ -1650,7 +1669,7 @@ To obtain additional rights of use, visit <a href="http://www.opengeospatial.org
 </div>
 </div>
 <div class="sect3">
-<h4 id="_creaf_miramon_map_server"><a class="anchor" href="#_creaf_miramon_map_server"></a>7.6.2. CREAF MiraMon Map Server</h4>
+<h4 id="_creaf_miramon_map_server"><a class="anchor" href="#_creaf_miramon_map_server"></a>7.7.2. CREAF MiraMon Map Server</h4>
 <div class="paragraph">
 <p>The MiraMon Map Server is a CGI application encoded in C language that is part of the MiraMon Geographic Information System (GIS) &amp; Remote Sensing (RS) suite. Currently the server implements WMS, WMTS and partially implements WFS and WCS. It also partially implements the OGC Sensor Observation Service (SOS) standard. In order to perform efficiently, it requires a process preparing the data to be offered. It can interoperate with other vendors clients but combined with the MiraMon Map Client it offers more functionality, including functionality recently developed for the Catalan Data Cube.</p>
 </div>
@@ -1662,22 +1681,13 @@ To obtain additional rights of use, visit <a href="http://www.opengeospatial.org
 </div>
 </div>
 <div class="sect3">
-<h4 id="_gnosis_map_server"><a class="anchor" href="#_gnosis_map_server"></a>7.6.3. GNOSIS Map Server</h4>
+<h4 id="_gnosis_map_server"><a class="anchor" href="#_gnosis_map_server"></a>7.7.3. GNOSIS Map Server</h4>
 <div class="paragraph">
 <p>The GNOSIS Map Server is written in the eC programming language and supports multiple OGC API specifications. GNOSIS Map Server supports multiple encodings including GNOSIS Map Tiles (which can contain either vector data, gridded coverages, imagery, point clouds or 3D meshes), Mapbox Vector Tiles, GeoJSON, GeoECON, GML and MapML. An experimental server is available online at <a href="http://maps.ecere.com/geoapi" class="bare">http://maps.ecere.com/geoapi</a> and has been used in multiple OGC Innovation Program initiatives.</p>
 </div>
 </div>
 <div class="sect3">
-<h4 id="_interactive_instruments_ldproxy"><a class="anchor" href="#_interactive_instruments_ldproxy"></a>7.6.4. interactive instruments ldproxy</h4>
-<div class="paragraph">
-<p>ldproxy is an implementation of the OGC API family of specifications, based on the W3C/OGC Spatial Data on the Web Best Practices. It is written in Java (<a href="https://github.com/interactive-instruments/ldproxy">Source Code</a>) and is typically deployed using docker (<a href="https://hub.docker.com/r/iide/ldproxy/">DockerHub</a>). The software originally started in 2015 as a Web API for feature data based on WFS 2.0 capabilities. In addition to the JSON/XML encodings, an emphasis is placed on an intuitive HTML representation.</p>
-</div>
-<div class="paragraph">
-<p>The current version supports WFS 2.0 instances as well as PostgreSQL/PostGIS databases as backends. It implements all conformance classes and recommendations of "OGC API - Features - Part 1: Core" and "OGC API - Features- Part 2: Coordinate Reference Systems By Reference", as well as other draft extensions (Part 3 and Part 4). ldproxy also has draft implementations for additional resource types (Tiles, Styles).</p>
-</div>
-</div>
-<div class="sect3">
-<h4 id="_noaa_nws_edr_api"><a class="anchor" href="#_noaa_nws_edr_api"></a>7.6.5. NOAA NWS EDR API</h4>
+<h4 id="_noaa_nws_edr_api"><a class="anchor" href="#_noaa_nws_edr_api"></a>7.7.4. NOAA NWS EDR API</h4>
 <div class="paragraph">
 <p>The National Weather Service deployed an instance of the OGC API - Environmental Data Retrieval candidate standard.</p>
 </div>
@@ -1790,6 +1800,9 @@ To obtain additional rights of use, visit <a href="http://www.opengeospatial.org
 <div class="paragraph">
 <p>The pycsw team discussed how they are going to implement OGC API - Records, while still supporting versions 2 and 3 of the OGC Catalogue Services for the Web (CSW) standard. CSW is the predecessor of OGC API - Records. CSW supports the ability to publish and search collections of descriptive information (metadata) for data, services, and related information objects.</p>
 </div>
+<div class="paragraph">
+<p>interactive instruments updated ldproxy during the code sprint to support the Core, HTML, JSON and CQL Filter conformance classes of the current draft of OGC API - Records (<a href="https://github.com/interactive-instruments/ldproxy/pull/370:">pull request</a>). A <a href="https://geoinfodok.ldproxy.net/geoinfodok">sample instance</a> has been set up during the sprint and added as an <a href="https://github.com/opengeospatial/ogcapi-records/blob/master/implementations.md#ldproxy">implementation in the GitHub repository of OGC API - Records</a>.</p>
+</div>
 </div>
 <div class="sect3">
 <h4 id="_ogc_api_processes_2"><a class="anchor" href="#_ogc_api_processes_2"></a>9.2.2. OGC API - Processes</h4>
@@ -1840,19 +1853,100 @@ To obtain additional rights of use, visit <a href="http://www.opengeospatial.org
 </div>
 </div>
 <div class="sect3">
-<h4 id="_osgeo_grass_gis_2"><a class="anchor" href="#_osgeo_grass_gis_2"></a>9.2.9. OSGeo GRASS GIS</h4>
+<h4 id="_osgeo_geonetwork_2"><a class="anchor" href="#_osgeo_geonetwork_2"></a>9.2.9. OSGeo GeoNetwork</h4>
+<div class="paragraph">
+<p>GeoNetwork team worked on a refactor of the code, related to OGC API Records.
+In previous iterations the YAML files provided by OGC were used to build a java skeleton.
+With the refactor the openapi document is generated from java code using the springfox library.
+This allows us to add some properties and methods which are not in the standard (yet).</p>
+</div>
+<div class="imageblock text-center">
+<div class="content">
+<img src="images/geonetwork.png" alt="geonetwork" width="400">
+</div>
+</div>
+<div class="paragraph">
+<p>For example GeoNetwork provides DCAT, schema.org, Atom outputs of Metadata records in various encodings,
+such as html, json, (iso19139) xml, json-ld, rdf/xml and turtle.</p>
+</div>
+<div class="paragraph">
+<p>Discussions from the sprint are documented:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>Add the thumbnail/graphicoverview fiels to the core record model <a href="https://github.com/opengeospatial/ogcapi-records/issues/94" class="bare">https://github.com/opengeospatial/ogcapi-records/issues/94</a></p>
+</li>
+<li>
+<p>Start an initiative to create an extension for Facet Statistics <a href="https://github.com/opengeospatial/ogcapi-records/issues/52" class="bare">https://github.com/opengeospatial/ogcapi-records/issues/52</a></p>
+</li>
+<li>
+<p>Multilingual aspects of metadata <a href="https://github.com/opengeospatial/ogcapi-records/issues/91" class="bare">https://github.com/opengeospatial/ogcapi-records/issues/91</a></p>
+</li>
+<li>
+<p>Since GeoNetwork does support Atom/Opensearch, we should verify if we meet all requirements of conformance class, and if so, list it on the conformance endpoint</p>
+</li>
+<li>
+<p>It was previously not clear that GeoJSON will be a default (json) response format for record queries, it feels a bit awkward.</p>
+</li>
+<li>
+<p>I tested the json-ld output of our OGC API Records endpoint with the Jena ARQ sparql client. It works for a single document, but queries don&#8217;t continue into related
+records. Mostly because the json-ld context currently doesn&#8217;t list relations to the collection or siblings. In theory I should be
+able to find the dcat:catalogue from a dcat:catalogueRecord, and from the catalogue, other records.</p>
+</li>
+</ul>
+</div>
+</div>
+<div class="sect3">
+<h4 id="_osgeo_geoserver_2"><a class="anchor" href="#_osgeo_geoserver_2"></a>9.2.10. OSGeo GeoServer</h4>
+<div class="paragraph">
+<p>openlayers does not have support for OGC API - Maps. So the GeoServer team observed that</p>
+</div>
+<div class="paragraph">
+<p>OGC APIs expect parameters to be case sensitive. In some cases however, for example with OpenLayers, the parameters can be of different case.</p>
+</div>
+<div class="paragraph">
+<p>The team observed that there is a need to provide a way of displaying layerGroups. At the moment they are displayed as collections.</p>
+</div>
+</div>
+<div class="sect3">
+<h4 id="_osgeo_grass_gis_2"><a class="anchor" href="#_osgeo_grass_gis_2"></a>9.2.11. OSGeo GRASS GIS</h4>
 <div class="paragraph">
 <p>The participants <a href="https://github.com/OSGeo/grass-addons/pull/439">created</a> the alpha version of GRASS GIS import modules for the OGC API - Features Standard and the draft OGC API - Coverages specification.</p>
 </div>
 </div>
 <div class="sect3">
-<h4 id="_apache_activemq_2"><a class="anchor" href="#_apache_activemq_2"></a>9.2.10. Apache ActiveMQ</h4>
+<h4 id="_osgeo_qgis_2"><a class="anchor" href="#_osgeo_qgis_2"></a>9.2.12. OSGeo QGIS</h4>
+<div class="paragraph">
+<p>QGIS team worked on an OGC API Records client. A pull request has been prepared at <a href="https://github.com/qgis/QGIS/pull/41713" class="bare">https://github.com/qgis/QGIS/pull/41713</a></p>
+</div>
+<div class="imageblock text-center">
+<div class="content">
+<img src="images/qgis.png" alt="qgis" width="400">
+</div>
+</div>
+<div class="paragraph">
+<p>Relevant to this development is the discussion at <a href="https://github.com/opengeospatial/ogcapi-records/issues/95" class="bare">https://github.com/opengeospatial/ogcapi-records/issues/95</a>.
+QGIS facilitates to add the service layer to the map, when it detects the type of the service.
+Current CSW implementation has a long algorythm of testing various metadata properties, the service url and probing the endpoint.</p>
+</div>
+<div class="paragraph">
+<p>The Apache group was interested to use QGIS as a tool for data modification and then loading it into Fuseki.
+They were looking for tooling that would export the data as RDF from QGIS. They found a solution using GeoServer as middleware, which
+has a community plugin at <a href="https://docs.geoserver.org/latest/en/user/community/json-ld/output.html" class="bare">https://docs.geoserver.org/latest/en/user/community/json-ld/output.html</a>, which offers json-ld capabilities.</p>
+</div>
+<div class="paragraph">
+<p>QGIS has OGC API Features support.</p>
+</div>
+</div>
+<div class="sect3">
+<h4 id="_apache_activemq_2"><a class="anchor" href="#_apache_activemq_2"></a>9.2.13. Apache ActiveMQ</h4>
 <div class="paragraph">
 <p>The participants observed that ActiveMQ is relevant to the concepts discussed in the OGC Publish/Subscribe (PubSub) 1.0 standard and the draft PubSub Whitepaper. OGC PubSub 1.0 is an interface specification that supports the core components and concepts of the Publish/Subscribe message exchange pattern with OGC Web Services. Another observation made was that ActiveMQ is potentially related to the draft GeoSynchronization Service (GSS) specification. The draft GSS specification describes a service that allows data collectors to propose changes to be made to a data provider&#8217;s features.</p>
 </div>
 </div>
 <div class="sect3">
-<h4 id="_apache_jena_2"><a class="anchor" href="#_apache_jena_2"></a>9.2.11. Apache Jena</h4>
+<h4 id="_apache_jena_2"><a class="anchor" href="#_apache_jena_2"></a>9.2.14. Apache Jena</h4>
 <div class="paragraph">
 <p>The Apache Jena team discussed an approach with the GeoServer team for enabling the export of a feature collection from QGIS to GeoServer, and then to <a href="https://jena.apache.org/documentation/fuseki2/">Apache Jena Fuseki</a>. Fuseki offers a SPARQL Server interface on top of Apache Jena. The groups concluded that it would be possible to export create a plug-in for QGIS that allows it to post GeoJSON to GeoServer. An additional plug-in could then be implemented to export <a href="https://geojson.org/geojson-ld/">GeoJSON-LD</a> from GeoServer to Fuseki.</p>
 </div>
@@ -1863,8 +1957,24 @@ To obtain additional rights of use, visit <a href="http://www.opengeospatial.org
 </div>
 <div class="sect2">
 <h3 id="_lessons_learnt"><a class="anchor" href="#_lessons_learnt"></a>9.3. Lessons Learnt</h3>
-<div class="paragraph">
-<p>TBA</p>
+<div class="ulist">
+<ul>
+<li>
+<p>There is need to improve discovery of resources (e.g. landing pages) across multiple deployments. The binding aspects also need to be considered, for example potentially using actionable links. We need some form of harmonization on link relation types.</p>
+</li>
+<li>
+<p>When the SWGs are defining the APIs they should define the default behavior. OWS needed several parameters to retrieve a resource, however for OGC APIs they should be designed to allow default behavior when params are not present.</p>
+</li>
+<li>
+<p>The participants therefore recommended that implementers of code generating tools should make enhancements to address some of those shortcomings, for example support for dynamic resources and enabling semantic awareness to provide context to API components. There is also a fundamental limit in the specifications. This could potentially be addressed through support for templatedRef <a href="https://github.com/OAI/OpenAPI-Specification/issues/2453" class="bare">https://github.com/OAI/OpenAPI-Specification/issues/2453</a></p>
+</li>
+<li>
+<p>There is a need to enable paging of collections. For example, it is possible that some implementations of OGC API - Processes could have hundreds of processes. This needs to be addressed in the OGC API - Common - Part 2: Geospatial Data extension. This is also related to Principle 11 of the Guidelines  <a href="https://github.com/opengeospatial/OGC-Web-API-Guidelines" class="bare">https://github.com/opengeospatial/OGC-Web-API-Guidelines</a></p>
+</li>
+<li>
+<p>There may also need to be a mechanism to group collections (i.e. a collection of collections). <a href="https://github.com/opengeospatial/oapi_common/issues/11" class="bare">https://github.com/opengeospatial/oapi_common/issues/11</a></p>
+</li>
+</ul>
 </div>
 </div>
 </div>
@@ -1878,17 +1988,54 @@ To obtain additional rights of use, visit <a href="http://www.opengeospatial.org
 <div class="sect2">
 <h3 id="_future_work"><a class="anchor" href="#_future_work"></a>10.1. Future work</h3>
 <div class="paragraph">
-<p>The following general recommendations for future work items were made.</p>
+<p>The following general recommendations for future innovation work items were made during the sprint:</p>
 </div>
-<div class="olist arabic">
-<ol class="arabic">
+<div class="ulist">
+<ul>
 <li>
-<p>TBA</p>
+<p>Themes, trees, nesting, and other strategies need to be explored. This is needed because data providers often have thousands of datasets that they need to manage or publish.</p>
 </li>
 <li>
-<p>TBA</p>
+<p>There is a need for more experimentation on styles and coverages. Including how styles can be used to render/filter coverages.</p>
 </li>
-</ol>
+<li>
+<p>Tiled coverages and their support through OGC API - Coverages and OGC API - Tiles integration should be explored further.</p>
+</li>
+<li>
+<p>More experimentation is needed on workflows in relation to the OGC API - Processes - Part 3 : Workflows.</p>
+</li>
+<li>
+<p>Further development of the DGGS API, including work on client applications and visualization.</p>
+</li>
+<li>
+<p>There is a need to advance OGC APIs and other OGC standards to enable the cataloguing and discovery of models (e.g. AI/Machine Learning models). We need to explore how to sufficiently describe the models.</p>
+</li>
+<li>
+<p>The implications of OpenAPI 3.1, JSON Schema and Webhooks need to be examined and path towards transition identified.</p>
+</li>
+<li>
+<p>Some integration of the MapML format concept with the OGC API offerings, for example into the HTML representation of features, to enhance the spatial indexing of HTML.</p>
+</li>
+<li>
+<p>Enhancement of the Link Relations Register.</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p>Standards Working Groups should consider introducing support for the following:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>Associations between records and other elements in catalogues</p>
+</li>
+<li>
+<p>Landing page of landing pages</p>
+</li>
+<li>
+<p>Searchable collections in OGC APIs (including the collections of collections)</p>
+</li>
+</ul>
 </div>
 </div>
 </div>
@@ -2200,7 +2347,7 @@ To obtain additional rights of use, visit <a href="http://www.opengeospatial.org
 </div>
 <div id="footer">
 <div id="footer-text">
-Last updated 2021-02-19 20:10:13 UTC
+Last updated 2021-02-22 08:43:15 UTC
 </div>
 </div>
 </body>
