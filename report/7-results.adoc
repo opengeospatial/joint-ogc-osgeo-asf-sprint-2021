@@ -9,11 +9,24 @@ The code sprint included multiple software libraries, OWS implementations, OGC A
 .A screenshot of OpenSphere displaying a DGGS
 image::images/openshere-dggs.png[width=600,align="center"]
 
+<<img_miramon>> shows a screenshot of the UAB-CREAF MiraMon application accessing resources through OGC API - Tiles and OGC API- Maps interfaces. The client application is shown retrieving content from Ecere and CubeWerx servers.
+
+[#img_miramon,reftext='{figure-caption} {counter:figure-num}']
+.A screenshot of the UAB-CREAF MiraMon application accessing resources through OGC API - Tiles and OGC API- Maps interfaces
+image::images/miramon.png[width=600,align="center"]
+
 <<img_geoserver_styles>> shows a screenshot of the collections offered by a GeoServer implementation of OGC API - Styles. The screenshot shows a series of styles belonging to one of the collections. This organization of styles makes it possible to have different styles for different contexts (e.g. light, day, outdoor and so forth).
 
 [#img_geoserver_styles,reftext='{figure-caption} {counter:figure-num}']
 .A screenshot of the collections offered by a GeoServer implementation of OGC API - Styles
 image::images/geoserver-ogcapi-styles.png[width=600,align="center"]
+
+
+<<img_hexagon_processes>> shows two screenshots, one above the other. The upper screenshot shows the Swagger user interface (UI) of a prototype implementation of OGC API - Processes by Hexagon Geospatial. The lower screenshot shows a series of in-progress and completed jobs as monitored by the implementation.
+
+[#img_hexagon_processes,reftext='{figure-caption} {counter:figure-num}']
+.A screenshot of the Swagger UI of a prototype Hexagon implementation of OGC API - Processes
+image::images/hexagon.png[width=600,align="center"]
 
 <<img_pygeoapi_dggs>> shows a screenshot of pygeoapi displaying part of the https://eng.uber.com/h3/[Uber H3] Hexagonal Hierarchical Geospatial Indexing System. H3 supports hierarchical tessellation of regular polygons at increasingly fine resolutions up to an areal size of square meters cite:[Bondaruk2019].
 
@@ -63,7 +76,7 @@ image::images/mapml-geoserver-grid.png[width=600,align="center"]
 .A screenshot of the landing page of an ldproxy instance accessed using a web browser (left) and postman (right)
 image::images/ldproxy.png[width=600,align="center"]
 
-<<img_cubewerx>> shows a screenshot of the CubeWerx Ship Detection processes running on Sentinel data in the Amazon Web Services Cloud. Available input datasets are listed on the left-hand side of the figure, whereas currently running and completed processes are listed on the right-hand side of the figure.
+<<img_cubewerx>> shows a screenshot of the CubeWerx Ship Detection processes running on Sentinel data in the Amazon Web Services Cloud. Available input datasets are listed on the left-hand side of the figure, whereas in-progress and completed jobs are listed on the right-hand side of the figure.
 
 [#img_cubewerx,reftext='{figure-caption} {counter:figure-num}']
 .A screenshot of the CubeWerx processes management tool
