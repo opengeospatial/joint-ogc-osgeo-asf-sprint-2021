@@ -40,15 +40,91 @@ All questions regarding this document should be directed to the editor or the co
 |====================
 |Name |Organization | Role
 |Gobe Hobona | Open Geospatial Consortium | Editor
-|Angelos Tzotsos | Open Soure Geospatial Foundation |Editor
+|Angelos Tzotsos | Open Source Geospatial Foundation |Editor
 |Tom Kralidis | Meteorological Service of Canada |Editor
 |Martin Desruisseaux | Geomatys | Editor
-|((Full Name)) | ((from org)) |((Editor/Contributor))
-|((Full Name)) | ((from org)) |((Editor/Contributor))
-|((Full Name)) | ((from org)) |((Editor/Contributor))
-|((Full Name)) | ((from org)) |((Editor/Contributor))
-|((Full Name)) | ((from org)) |((Editor/Contributor))
-|((Full Name)) | ((from org)) |((Editor/Contributor))
+|Clemens Portele | interactive instruments GmbH |Contributor
+|Paul van Genuchten | GeoCat BV |Contributor
+|	Mark Thomas	|	Apache Software Foundation	| Contributor
+|	Sean Arms	|	UCAR	| Contributor
+|	Jamie Goodyear	|	Apache Software Foundation	| Contributor
+|	Hisham Massih	|	Esri	| Contributor
+|	Matt Pavlovich	|	ASF / HYTE Technologies, Inc.	| Contributor
+|	Charles Heazel	|	Heazeltech LLC	| Contributor
+|	Jeffrey Yutzler	|	Image Matters	| Contributor
+|	Edward Lewis	|	British Geological Survey	| Contributor
+|	Bruno Kinoshita	|	Apache Software Foundation	| Contributor
+|	Yugandhar Thippireddy	|	accenture	| Contributor
+|	Mahmoud SAKR	|	Université Libre de Bruxelles	| Contributor
+|	Rajveer Shekhawat	|	Manipal University Jaipur	| Contributor
+|	Shivashis Padhi	|	Individual	| Contributor
+|	Pongsakorn Udombua	|	i-bitz company limited.	| Contributor
+|	Patrick Dion	|	Ecere Corporation	| Contributor
+|	Sattawat Arab	|	i-bitz	| Contributor
+|	Anon Bianglae	|	i-bitz	| Contributor
+|	Pandu Wicaksono	|	Badan Pusat Statistik	| Contributor
+|	Francis Charette Migneault	|	Computer Research Institute of Montréal (CRIM)	| Contributor
+|	Massimo Di Stefano	|	Met.no	| Contributor
+|	Marco Neumann	|	KONA	| Contributor
+|	Núria Julià	|	UAB-CREAF	| Contributor
+|	Michel Gabriël	|	GeoCat	| Contributor
+|	Vaclav Petras	|	NC State University	| Contributor
+|	Anna Petrasova	|	NC State University	| Contributor
+|	Jeff McKenna	|	GatewayGeo	| Contributor
+|	Matthew Purss	|	Pangaea Innovations Pty. Ltd.	| Contributor
+|	Joan Maso	|	UAB-CREAF	| Contributor
+|	Panagiotis Vretanos	|	CubeWerx Inc.	| Contributor
+|	Ahmad Ayubi	|	Natural Resources Canada	| Contributor
+|	Florian Hoedt	|	Thünen-Institute	| Contributor
+|	Peter Rushforth	|	Natural Resources Canada	| Contributor
+|	Brian Hamlin	|	Open Source Geospatial Foundation	| Contributor
+|	Jody Garnett	|	GeoCat	| Contributor
+|	luca delucchi	|	Fondazione Edmund Mach	| Contributor
+|	Carsten Ehbrecht	|	DKRZ	| Contributor
+|	Chris Little	|	Met Office	| Contributor
+|	Bo Lu	|	Natural Resources Canada	| Contributor
+|	James Munroe	|	Elemental Earth Data Ltd.	| Contributor
+|	Sander Schaminee	|	GeoCat BV	| Contributor
+|	Paul Hershberg	|	NOAA	| Contributor
+|	Steve Olson	|	NOAA/NWS	| Contributor
+|	Nattapat Phumphan	|	i-bitz company limited 	| Contributor
+|	Nutthapol Jansuri	|	I-bitz	| Contributor
+|	Prasong Patheepphoemphong	|	i-bitz company limited	| Contributor
+|	Davince Koyo	|	Individual	| Contributor
+|	Rajat Shinde	|	Indian Institute of Technology Bombay	| Contributor
+|	Andrea Aime	|	GeoSolutions	| Contributor
+|	Shane Mill	|	NOAA	| Contributor
+|	Michael Rushin	|	George Mason University	| Contributor
+|	Nazih Fino	|	Global Nomad GIS Services	| Contributor
+|	Francois Prunayre	|	titellus	| Contributor
+|	Ingrid Santana	|	UFMG	| Contributor
+|	Irene Muema	|	8teq Technologies	| Contributor
+|	Julia Wakaba	|	8teq	| Contributor
+|	Joseph Kariuki	|	AthenaSl	| Contributor
+|	Luke Hodgaon	|	TPG	| Contributor
+|	Steven McDaniel	|	Hexagon Geospatial	| Contributor
+|	Richard Mitanchey	|	Cerema	| Contributor
+|	Pankaj Kumar	|	https://geoknight.medium.com/	| Contributor
+|	Just van den Broecke	|	Just Objects B.V.	| Contributor
+|	Steve Ochieng	|	None	| Contributor
+|	Alexander Kmoch	|	University of Tartu	| Contributor
+|	Qianqian Zhang	|	China Agricultural University	| Contributor
+|	Benard Odhimabo	|	8-teq	| Contributor
+|	Alex Mandel	|	Development Seed	| Contributor
+|	Ashish Kumar	|	IIT (BHU) Varanasi	| Contributor
+|	Martha Vergara	|	Open Source Geospatial Foundation 	| Contributor
+|	Gérald Fenoy	|	GeoLabs	| Contributor
+|	Jerome St-Louis	|	Ecere Corporation	| Contributor
+|	Richie Carmichael	|	Esri	| Contributor
+|	Dave McLaughlin	|	Penn State University	| Contributor
+|	Kathleen Schaefer	|	UC Davis	| Contributor
+|	Vicky Vergara	|	georepublic/OSgeo/pgRouting	| Contributor
+|	Srini Kadamati	|	Preset	| Contributor
+|	Ignacio "Nacho" Correas	|	Skymantics	| Contributor
+|	BENAHMED DAHO Ali	|	TransformaTek	| Contributor
+|	Oscar Diaz	|	Geosolutions Consulting	| Contributor
+|	Francesco Bartoli	|	Geobeyond Srl	| Contributor
+|	Astrid Emde	|	Open Source Geospatial Foundation	| Contributor
 |====================
 
 // *****************************************************************************
