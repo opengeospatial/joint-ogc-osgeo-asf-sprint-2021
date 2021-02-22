@@ -3,22 +3,31 @@
 
 The code sprint included multiple software libraries, OWS implementations, OGC API implementations and different client applications. In addition to supporting OWS and OGC API standards, various ASF and OSGeo software products involved in the code sprint also supported a variety of OGC encoding standards. This section presents some of the results from the code sprint.
 
+<<img_openshere_dggs>> shows a screenshot of OpenSphere displaying a DGGS that had been uploaded as a GeoJSON-encoded feature collection. On the screenshot, one of the grid cells is highlighted after being clicked on.
+
 [#img_openshere_dggs,reftext='{figure-caption} {counter:figure-num}']
 .A screenshot of OpenSphere displaying a DGGS
 image::images/openshere-dggs.png[width=600,align="center"]
 
+<<img_geoserver_styles>> shows a screenshot of the collections offered by a GeoServer implementation of OGC API - Styles. The screenshot shows a series of styles belonging to one of the collections. This organization of styles makes it possible to have different styles for different contexts (e.g. light, day, outdoor and so forth).
 
 [#img_geoserver_styles,reftext='{figure-caption} {counter:figure-num}']
 .A screenshot of the collections offered by a GeoServer implementation of OGC API - Styles
 image::images/geoserver-ogcapi-styles.png[width=600,align="center"]
 
+<<img_pygeoapi_dggs>> shows a screenshot of pygeoapi displaying part of the https://eng.uber.com/h3/[Uber H3] Hexagonal Hierarchical Geospatial Indexing System. H3 supports hierarchical tessellation of regular polygons at increasingly fine resolutions up to an areal size of square meters cite:[Bondaruk2019].
+
 [#img_pygeoapi_dggs,reftext='{figure-caption} {counter:figure-num}']
 .A screenshot of pygeoapi displaying a DGGS
 image::images/pygeoapi-dggs.png[width=600,align="center"]
 
+<<img_geoserver_maps>> shows a screenshot of a map created from https://www.ordnancesurvey.co.uk/business-government/products/open-zoomstack[OS Open Zoomstack] using a GeoServer instance that supports OGC API - Maps. OS Open Zoomstack offers comprehensive basemap of Great Britain showing coverage from national level right down to street detail.
+
 [#img_geoserver_maps,reftext='{figure-caption} {counter:figure-num}']
-.A screenshot of a map created from OS Open Zoomstack using a GeoServer implementation of OGC API - Maps
+.A screenshot of a map created from OS Open Zoomstack using a GeoServer and OGC API - Maps (Contains OS data © Crown Copyright and database right 2020)
 image::images/geoserver-ogcapi-maps.png[width=600,align="center"]
+
+<<img_geoapi>> shows a screenshot of the NetBeans IDE running GeoAPI, Apache SIS and the UCAR netCDF library. The use of these three libraries demonstrated support for both the https://www.ogc.org/standards/geoapi[OGC GeoAPI] standard and the https://www.ogc.org/standards/netcdf[OGC netCDF] standard.
 
 [#img_geoapi,reftext='{figure-caption} {counter:figure-num}']
 .A screenshot of the NetBeans IDE running GeoAPI, Apache SIS and the UCAR netCDF library
@@ -43,3 +52,7 @@ image::images/cubewerx.png[width=600,align="center"]
 [#img_cubewerx2,reftext='{figure-caption} {counter:figure-num}']
 .Example output from the CubeWerx Ship Detection processes
 image::images/cubewerx2.png[width=600,align="center"]
+
+[#img_pygeoapi_xarray,reftext='{figure-caption} {counter:figure-num}']
+.A screenshot of an x-array supported pygeoapi displaying a coverage
+image::images/pygeoapi-xarray.png[width=600,align="center"]
