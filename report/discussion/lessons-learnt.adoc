@@ -1,3 +1,7 @@
 === Lessons Learnt
 
-TBA
+* There is need to improve discovery of resources (e.g. landing pages) across multiple deployments. The binding aspects also need to be considered, for example potentially using actionable links. We need some form of harmonization on link relation types.
+* When the SWGs are defining the APIs they should define the default behavior. OWS needed several parameters to retrieve a resource, however for OGC APIs they should be designed to allow default behavior when params are not present.
+* The participants therefore recommended that implementers of code generating tools should make enhancements to address some of those shortcomings, for example support for dynamic resources and enabling semantic awareness to provide context to API components. There is also a fundamental limit in the specifications. This could potentially be addressed through support for templatedRef https://github.com/OAI/OpenAPI-Specification/issues/2453
+* There is a need to enable paging of collections. For example, it is possible that some implementations of OGC API - Processes could have hundreds of processes. This needs to be addressed in the OGC API - Common - Part 2: Geospatial Data extension. This is also related to Principle 11 of the Guidelines  https://github.com/opengeospatial/OGC-Web-API-Guidelines
+* There may also need to be a mechanism to group collections (i.e. a collection of collections). https://github.com/opengeospatial/oapi_common/issues/11
