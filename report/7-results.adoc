@@ -57,6 +57,12 @@ image::images/mapml-geoserver.png[width=600,align="center"]
 .A gridded screenshot of the MapML viewer built for GeoServer
 image::images/mapml-geoserver-grid.png[width=600,align="center"]
 
+<<img_ldproxy>> shows a screenshot of the landing page of an ldproxy instance that publishes data from the National Mapping Agency of the Federal Republic of Germany. The screenshot demonstrates the content negotiation capabilities supported by OGC APIs that enable a client application such as a web browser to request a resource in HTML and a different client application such as a developer utility (e.g. https://www.postman.com[postman]) to request the same resource in JSON.
+
+[#img_ldproxy,reftext='{figure-caption} {counter:figure-num}']
+.A screenshot of the landing page of an ldproxy instance accessed using a web browser (left) and postman (right)
+image::images/ldproxy.png[width=600,align="center"]
+
 <<img_cubewerx>> shows a screenshot of the CubeWerx Ship Detection processes running on Sentinel data in the Amazon Web Services Cloud. Available input datasets are listed on the left-hand side of the figure, whereas currently running and completed processes are listed on the right-hand side of the figure.
 
 [#img_cubewerx,reftext='{figure-caption} {counter:figure-num}']
