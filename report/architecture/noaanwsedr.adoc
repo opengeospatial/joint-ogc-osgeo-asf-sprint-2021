@@ -22,7 +22,7 @@ Finally, the NWS Implementation of the EDR-API uses a user interface to help a u
 
 Below is an example of how the user interface is able to display a Trajectory Query:
 
-
+image::/report/images/Trajectory_ER.PNG[]
 
 ====== Additional Support for NetCDF Output Format
 
