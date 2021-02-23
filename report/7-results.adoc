@@ -46,7 +46,7 @@ image::images/geoserver-ogcapi-maps.png[width=600,align="center"]
 .A screenshot of the NetBeans IDE running GeoAPI, Apache SIS and the UCAR netCDF library
 image::images/geoapi.png[width=600,align="center"]
 
-<<img_pygeoapi1>> shows a screenshot of pygeoapi displaying a sample metadata record from the Dutch National GeoRegister.
+<<img_pygeoapi1>> shows a screenshot of pygeoapi displaying a sample metadata record from the Dutch National GeoRegister.  The pygeoapi project formally completed OGC API - Records support in the software, and updated the pygeoapi https://demo.pygeoapi.io/master/collections/dutch-metadata[demo] for community testing and feedback.
 
 [#img_pygeoapi1,reftext='{figure-caption} {counter:figure-num}']
 .A screenshot of pygeoapi displaying a sample metadata record
@@ -88,7 +88,7 @@ image::images/cubewerx.png[width=600,align="center"]
 .Example output from the CubeWerx Ship Detection processes
 image::images/cubewerx2.png[width=600,align="center"]
 
-<<img_pygeoapi_xarray>> shows a screenshot of an x-array supported pygeoapi displaying a coverage. The coverage is accessed through an OGC API - Coverages interface and has been styled for portrayal purposes. The demonstration showed how OGC API - Tiles could be implemented alongside OGC API - Coverages to enable access to tiled coverage data.
+<<img_pygeoapi_xarray>> shows a screenshot of an xarray supported pygeoapi displaying a coverage. The coverage is accessed through an OGC API - Coverages interface and has been styled for portrayal purposes. The demonstration showed how OGC API - Tiles could be implemented alongside OGC API - Coverages to enable access to tiled coverage data.
 
 [#img_pygeoapi_xarray,reftext='{figure-caption} {counter:figure-num}']
 .A screenshot of an x-array supported pygeoapi displaying a coverage
