@@ -38,3 +38,5 @@ include::discussion/apache-activemq.adoc[]
 include::discussion/apache-jena.adoc[]
 
 include::discussion/lessons-learnt.adoc[]
+
+include::discussion/osgeo-ogc.adoc[]
