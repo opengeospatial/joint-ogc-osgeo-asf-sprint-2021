@@ -1,0 +1,11 @@
+==== OSGeo and OGC
+
+As part of ongoing discussions regarding renewing the OSGeo/OGC Memorandum of
+Understanding (MOU), there was discussion between Scott Simmons and members
+of the OSGeo Board of Directors on assessing the current MOU as well as current
+state of affairs.  In addition, there was discussion on opportunities to
+strengthen the MOU given the OGC's increasing focus on developers and the
+importance of free and open source software.
+
+The draft MOU continues to be updated and will be tabled for review by both
+organizations.
