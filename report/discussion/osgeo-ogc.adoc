@@ -1,7 +1,7 @@
 ==== OSGeo and OGC
 
 As part of ongoing discussions regarding renewing the OSGeo/OGC Memorandum of
-Understanding (MOU), there was discussion between Scott Simmons and members
+Understanding (MOU), there was discussion between Scott Simmons (OGC Chief Standards Officer) and members
 of the OSGeo Board of Directors on assessing the current MOU as well as current
 state of affairs.  In addition, there was discussion on opportunities to
 strengthen the MOU given the OGC's increasing focus on developers and the
