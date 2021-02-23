@@ -25,3 +25,4 @@
 * Enhancement of the Link Relations Register.
 * Landing page of landing pages could be standardised
 * Searchable collections in OGC APIs (including the collections of collections)
+* Where appropriate, clarification that GeoJSON is the default JSON encoding for OGC API - Features and OGC API - Records

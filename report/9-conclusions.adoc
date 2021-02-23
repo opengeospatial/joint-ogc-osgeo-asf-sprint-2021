@@ -1,7 +1,7 @@
 [[Conclusions]]
 == Conclusions
 
-TBA
+The code sprint facilitated the development and testing of prototype implementations of OGC standards, including implementations of draft OGC APIs standards. Further, the code sprint also enabled the participating developers to provide feedback to the editors of OGC standards. Furthermore, the code sprint provided a collaborative environment for OSGeo and ASF developers to fix open issues in products, develop new features, improve documentation, improve interoperability with other libraries/products, and develop prototype implementations of OGC standards. The code sprint therefore met all of its objectives and achieved its goal of accelerating the support of open geospatial standards within the developer community.
 
 ===  Future work
 
@@ -22,3 +22,4 @@ Standards Working Groups should consider introducing support for the following:
 * Associations between records and other elements in catalogues
 * Landing page of landing pages
 * Searchable collections in OGC APIs (including the collections of collections)
+* Where appropriate, clarification that GeoJSON is the default JSON encoding for OGC API - Features and OGC API - Records
