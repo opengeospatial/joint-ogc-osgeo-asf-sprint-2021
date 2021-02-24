@@ -95,7 +95,6 @@ image::images/cubewerx2.png[width=600,align="center"]
 image::images/pygeoapi-xarray.png[width=600,align="center"]
 
 <<img_grass>> show the steps and the results of the two implemented addons to import OGC API Features and OGC API Coverages into GRASS GIS.
-[#img_grass_,reftext='{figure-caption} {counter:figure-num}']
+[#img_grass,reftext='{figure-caption} {counter:figure-num}']
 .Screenshots of GRASS GIS showing procedure to import data from OGC API
 image::images/grass_ogc_api.png[width=600,align="center"]
-
