@@ -1,0 +1,31 @@
+==== NOAA NWS EDR API Implementation Development Activities During the Sprint
+
+The following dialogue is specific to the NWS implementation and the methods we used to prototype. It should be noted that the EDR-API provides a lot of freedom for an implementer to choose the methods most appropriate to them. This is just aimed to provide detail behind our decision making process and development details.
+
+====== Additional Support for XY Trajectory Query
+
+The XY Trajectory Query is a 2-Dimensional query that variates along the X and Y dimension but is constant along the Z and T dimension. This type of trajectory query was identified as the most straightforward to implement and a good starting point for implementing the XYZ Trajectory, XYT Trajectory, and XYZT Trajectory. In addition, it was decided that we would implement the Trajectory query with the output format of CoverageJSON.
+
+On the backend of the API, the process to implement a new sampling geometry type was straightforward. At the collection ID endpoint, a user is given an option to query by the different sampling geometry types. Based on the collection, we simply had to add /trajectory as an option through a link relation. This URL is handled using the root flask app.py within the containerized EDR-API implementation. With this URL handling in place, we simply needed to add support for trajectory in the provider script.
+
+A provider script is any of the scripts within the EDR/provider directory that handles the querying of the data based on the query parameters a user supplies. In this specific case, we implemented the trajectory query for Global Forecast System (GFS) collections. In the context of the GFS, we organize the data as collections by grouping weather parameters with common dimensions. For example, during ingest, say we have Temperature and Relative humidity at the surface, and Geopotential Height and Dew Point with differing vertical heights (pressure levels), collection 1 could contain Temperature and Relative humidity at the surface (x,y,t), and collection 2 could contain Geopotential Height and Dewpoint with differing vertical levels (x,y,z,t). We store these collections on disk as ZARR datastores, but ZARR provides a lot of flexibility for where you can store the ZARR objects (S3, Lustre, etc.). In addition, the combination of Zarr, Dask, and Xarray allow for an implementer to chunk the data in order to optimize performance when a user makes a query. At the moment that a user makes a query, the EDR-API, and specifically the EDR provider script related to the GFS will open the ZARR datastore as an xarray object. Xarray allows us to efficiently read data as a labelled multi-dimensional indexed array. Then, based on the sampling geometry type (in this case Trajectory), we make a Trajectory query on the Xarray object.
+
+Once a user has made a query, and the provider script has queried an XY Trajectory from the Xarray object, the Xarray dataset object is converted to a dictionary using the Xarray to_dict() function. Then, the provider script will convert this dictionary to CoverageJSON.
+
+Finally, the NWS Implementation of the EDR-API uses a user interface to help a user make a query and is able to read and display CoverageJSON in an interactive way. The user interface uses the covjson-reader and leaflet-coverage JavaScript libraries.
+
+Below is an example of how the user interface is able to display a Trajectory Query:
+
+image::images/Trajectory_ER.PNG[]
+
+====== Additional Support for NetCDF Output Format
+
+Schema support for NetCDF was also added to the NWS EDR-API implementation. On the backend, we simply needed to add NetCDF as an output format option within the collection based metadata. With this, we can supply NetCDF as an option for users to query depending on the collection. In this case, we added NetCDF as an output format for the GFS.
+
+Then, when a user makes a query, then can supply NetCDF as their intended output format (&f=NetCDF). The provider script for the GFS opens the relevant ZARR datastore as an xarray object, and makes the user query.
+
+With this xarray dataset containing the data the user has queried, we then needed to convert the xarray object to a NetCDF file. Xarray supplies a to_netcdf() function. However, in this particular case, that function did not work as intended. When we ingest GFS data, we download GRIB files from the NOMADS data dissemination service, open it as an Xarray object using PyNio as the engine. We then group the weather parameters by common dimensions together, and these are considered the collections for the GFS. The issue we found is that PyNio does not use CF compliant names for the weather parameters.
+
+We already have the ability to output an xarray object to GRIB, so what we were able to do is first output the data as GRIB, and then use the cfgrib python package to convert that GRIB file to NetCDF. We found that the cfgrib python package performs this conversion quickly so there were not major performance implications. Because of the conversion done by cfgrib, the resulting NetCDF file is of the NetCDF-4 variety and is CF compliant.
+
+We are confident that most of the time, Xarray’s to_netcdf() function will suffice for conversions of Xarray objects to NetCDF files, but it was good to know that when that function does not work, there are other options such as using cfgrib to perform conversions of data types.

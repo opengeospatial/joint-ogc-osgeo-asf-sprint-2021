@@ -662,7 +662,7 @@ ol > li p, ul > li p, ul dd, ol dd, .olist .olist, .ulist .olist, .olist .ulist 
 <p>Submission Date: YYYY-MM-DD</p>
 </div>
 <div class="paragraph">
-<p>Reference number of this document: OGC XX-XXX</p>
+<p>Reference number of this document: OGC 21-008</p>
 </div>
 <div class="paragraph">
 <p>Reference URL for this document: <a href="http://www.opengis.net/doc/PER/&lt;initiative_short_name&gt;-ID" class="bare">http://www.opengis.net/doc/PER/&lt;initiative_short_name&gt;-ID</a></p>
@@ -812,7 +812,7 @@ To obtain additional rights of use, visit <a href="http://www.opengeospatial.org
 <li><a href="#_cubewerx_cubeserv">7.7.1. CubeWerx CubeServ</a></li>
 <li><a href="#_creaf_miramon_map_server">7.7.2. CREAF MiraMon Map Server</a></li>
 <li><a href="#_gnosis_map_server">7.7.3. GNOSIS Map Server</a></li>
-<li><a href="#_noaa_nws_edr_api">7.7.4. NOAA NWS EDR API</a></li>
+<li><a href="#_noaa_nws_edr_api_implementation">7.7.4. NOAA NWS EDR API Implementation</a></li>
 </ul>
 </li>
 </ul>
@@ -2127,9 +2127,15 @@ To obtain additional rights of use, visit <a href="http://www.opengeospatial.org
 </div>
 </div>
 <div class="sect3">
-<h4 id="_noaa_nws_edr_api"><a class="anchor" href="#_noaa_nws_edr_api"></a>7.7.4. NOAA NWS EDR API</h4>
+<h4 id="_noaa_nws_edr_api_implementation"><a class="anchor" href="#_noaa_nws_edr_api_implementation"></a>7.7.4. NOAA NWS EDR API Implementation</h4>
 <div class="paragraph">
-<p>The National Weather Service deployed an instance of the OGC API - Environmental Data Retrieval candidate standard. The implementation offers the following types of data products: MEteorological Terminal Aviation Routine Weather Report (METAR), Terminal Aerodrome Forecast (TAF), Global Forecast System(GFS), North American Mesoscale model (NAM), and National Digital Forecast Database (NDFD).</p>
+<p>The National Weather Service deployed an instance of the OGC API - Environmental Data Retrieval candidate standard. The implementation offers the following types of data products: MEteorological Terminal Aviation Routine Weather Report (METAR), Terminal Aerodrome Forecast (TAF), Global Forecast System(GFS), North American Mesoscale model (NAM), National Digital Forecast Database (NDFD), Canadian Global Deterministic Prediction System (GDPS), French Action de Recherche Petite Echelle Grande Echelle (ARPEGE), and NASA monthly precipitation and hourly data (originally in HDF5 format).</p>
+</div>
+<div class="paragraph">
+<p>The implementation is able to ingest GRIB and HDF5 data as well as text products and data from Thredds. The implementation also contains schema support for the following output formats: CoverageJSON, GRIB, and IWXXM, with additional support added during this sprint to add support for NetCDF. In the future, work will be done to support HDF5 as an output format, but NetCDF was decided on to implement first.</p>
+</div>
+<div class="paragraph">
+<p>Finally, the implementation supports the sampling geometry types of Position, Area, and Cube with additional support added during this sprint for Trajectory.</p>
 </div>
 </div>
 </div>
@@ -2275,6 +2281,15 @@ To obtain additional rights of use, visit <a href="http://www.opengeospatial.org
 <img src="images/pygeoapi-xarray.png" alt="pygeoapi xarray" width="600">
 </div>
 <div class="title">Figure 16. A screenshot of an x-array supported pygeoapi displaying a coverage</div>
+</div>
+<div class="paragraph">
+<p><a href="#img_grass">[img_grass]</a> show the steps and the results of the two implemented addons to import OGC API Features and OGC API Coverages into GRASS GIS.</p>
+</div>
+<div id="img_grass_" class="imageblock text-center">
+<div class="content">
+<img src="images/grass_ogc_api.png" alt="grass ogc api" width="600">
+</div>
+<div class="title">Figure 17. Screenshots of GRASS GIS showing procedure to import data from OGC API</div>
 </div>
 </div>
 </div>
@@ -2878,7 +2893,7 @@ organizations.</p>
 </div>
 <div id="footer">
 <div id="footer-text">
-Last updated 2021-02-22 08:43:15 UTC
+Last updated 2021-02-23 13:24:44 UTC
 </div>
 </div>
 </body>
