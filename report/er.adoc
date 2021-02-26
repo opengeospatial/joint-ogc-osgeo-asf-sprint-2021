@@ -142,7 +142,7 @@ include::4-overview.adoc[]
 // Editors organize included-file inputs as appropriate starting here.
 // *****************************************************************************
 
-include::5-Introduction.adoc[]
+include::5-introduction.adoc[]
 
 include::6-architecture.adoc[]
 

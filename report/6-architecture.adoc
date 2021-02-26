@@ -112,7 +112,7 @@ include::architecture/ii_ldproxy.adoc[]
 
 include::architecture/CubeWerxCubeServ.adoc[]
 
-include::architecture/CREAFMiraMon.adoc[]
+include::architecture/CREAFMiramon.adoc[]
 
 include::architecture/EcereGNOSIS.adoc[]
 
