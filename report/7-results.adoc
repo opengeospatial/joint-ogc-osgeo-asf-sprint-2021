@@ -41,6 +41,9 @@ image::images/pygeoapi-dggs.png[width=600,align="center"]
 image::images/geoserver-ogcapi-maps.png[width=600,align="center"]
 
 <<img_geoapi>> shows a screenshot of the NetBeans IDE running GeoAPI, Apache SIS and the UCAR netCDF library. The use of these three libraries demonstrated support for both the https://www.ogc.org/standards/geoapi[OGC GeoAPI] standard and the https://www.ogc.org/standards/netcdf[OGC netCDF] standard.
+It demonstrates interoperability in the following way: the netCDF file is read by the UCAR library, and the ISO 19115 XML document is produced by Apache SIS,
+_without any mutual knowledge between the two libraries_ (i.e. there is no code dedicated to converting UCAR objects to Apache SIS objects).
+This is possible because the two libraries exchange an implementation-neutral object which is defined by GeoAPI.
 
 [#img_geoapi,reftext='{figure-caption} {counter:figure-num}']
 .A screenshot of the NetBeans IDE running GeoAPI, Apache SIS and the UCAR netCDF library
