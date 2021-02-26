@@ -98,6 +98,8 @@ include::architecture/ApacheJena.adoc[]
 
 include::architecture/ApacheKaraf.adoc[]
 
+include::architecture/ApacheSIS.adoc[]
+
 include::architecture/ApacheSuperset.adoc[]
 
 include::architecture/ApacheTomcat.adoc[]
