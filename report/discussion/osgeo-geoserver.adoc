@@ -1,7 +1,27 @@
 ==== OSGeo GeoServer
 
-openlayers does not have support for OGC API - Maps. So the GeoServer team observed that
+The GeoServer team worked on a number of activities during the sprint.
 
-OGC APIs expect parameters to be case sensitive. In some cases however, for example with OpenLayers, the parameters can be of different case.
+Andrea (GeoSolutions) worked on an initial experiment with of OGC API Maps:
 
-The team observed that there is a need to provide a way of displaying layerGroups. At the moment they are displayed as collections.
+image::images/geoserver-maps.png[width=1128,height=376,align="center"]
+
+* The OpenLayers JavaScript client does not yet have support for OGC API - Maps limiting our ability to provide an interactive preview for this service. OpenSource projects thrive on an ecosystem of projects supporting a standard.
+
+* OGC API Maps expects parameters to be case sensitive. In some cases however, for example with OpenLayers, the parameters can be of different case.
+
+* OGC API Maps does not provide a way of displaying layer groups. At the moment they are displayed as collections, only providing a visual for on layer at a time.
+
+GeoServer maintains a community area for experiments (such OGC API Maps and OGC API Features). Michel and Jody (GeoCat) looked at how much work would be required to on OGC API Features implementation to meet requirements for configuration, documentation and quality assurance.
+
+.. image::images/geoserver-html-output.png[width=1128,height=376,align="center"]
+
+* Great improvements were made to appearance of the html pages as shown above. These templates used can now be customized on a feature type or workspace basis.
+
+* Documentation improvements on https://docs.geoserver.org/master/en/user/community/ogc-api/index.html[use and customization] added, although more hands on examples will be needed for developers to make use of these services.
+
+* The specifications are actively changing in response to feedback during the sprint. This is an impediment meeting quality assurance targets, and providing support for these standards to the public.
+
+Peter (Canada Centre for Mapping and Earth Observation) worked on MapML using a Leaflet client. This work has been https://github.com/geoserver/geoserver/wiki/GSIP-200[submitted for inclusion] in GeoServer.
+
+image::images/geoserver-mapml.png[width=569,height=30,align="center"]
