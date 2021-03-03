@@ -1,3 +1,0 @@
-==== OGC GeoAPI
-
-The GeoAPI Implementation Standard defines the normalized use of the GeoAPI library. The GeoAPI library contains a series of interfaces and classes in the Java language defined in several packages which interpret into Java the data model and UML types of the ISO and OGC standards documents. The library includes extensive Javadoc code documentation which complement the injunctions of the ISO/OGC specifications by explaining particularities of the GeoAPI library: interpretations made of the specifications where there was room for choice, constraints due to the library's use of Java, or standard patterns of behavior expected by the library, notably in its handling of return types during exceptional situations.

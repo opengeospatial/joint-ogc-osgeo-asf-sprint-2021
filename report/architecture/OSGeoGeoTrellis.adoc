@@ -1,3 +1,0 @@
-==== OSGeo GeoTrellis
-
-GeoTrellis is an open source, geographic data processing library implemented in Scala and designed to work with large geospatial raster data sets.

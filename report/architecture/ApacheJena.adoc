@@ -1,4 +1,0 @@
-
-==== Apache Jena
-
-A free and open source Java framework for building Semantic Web and Linked Data applications.

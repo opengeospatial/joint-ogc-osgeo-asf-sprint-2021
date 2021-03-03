@@ -1,3 +1,0 @@
-==== MapML extension for GeoServer
-
-Map Markup Language (MapML) is a text-based format which allows map authors to encode map information as hypertext documents exchanged over the Uniform Interface of the Web.

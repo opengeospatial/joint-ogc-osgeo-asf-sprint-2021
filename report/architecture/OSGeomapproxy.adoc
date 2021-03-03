@@ -1,3 +1,0 @@
-==== OSGeo mapproxy
-
-MapProxy is an open source proxy for geospatial data. It caches, accelerates and transforms data from existing map services and serves different desktop or web GIS client applications.

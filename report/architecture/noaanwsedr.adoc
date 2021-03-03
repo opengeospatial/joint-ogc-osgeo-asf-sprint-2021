@@ -1,7 +1,0 @@
-==== NOAA NWS EDR API Implementation
-
-The National Weather Service deployed an instance of the OGC API - Environmental Data Retrieval candidate standard. The implementation offers the following types of data products: MEteorological Terminal Aviation Routine Weather Report (METAR), Terminal Aerodrome Forecast (TAF), Global Forecast System(GFS), North American Mesoscale model (NAM), National Digital Forecast Database (NDFD), Canadian Global Deterministic Prediction System (GDPS), French Action de Recherche Petite Echelle Grande Echelle (ARPEGE), and NASA monthly precipitation and hourly data (originally in HDF5 format).
-
-The implementation is able to ingest GRIB and HDF5 data as well as text products and data from Thredds. The implementation also contains schema support for the following output formats: CoverageJSON, GRIB, and IWXXM, with additional support added during this sprint to add support for NetCDF. In the future, work will be done to support HDF5 as an output format, but NetCDF was decided on to implement first.
-
-Finally, the implementation supports the sampling geometry types of Position, Area, and Cube with additional support added during this sprint for Trajectory.

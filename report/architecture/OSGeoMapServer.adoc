@@ -1,3 +1,0 @@
-==== OSGeo MapServer
-
-MapServer is an Open Source platform for publishing spatial data and interactive mapping applications to the web.

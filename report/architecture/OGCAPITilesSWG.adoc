@@ -1,4 +1,0 @@
-
-==== OGC API - Tiles
-
-OGC API - Tiles references the OGC Two Dimensional Tile Matrix Set (TMS) standard. The TMS standard defines the rules and requirements for a tile matrix set as a way to index space based on a set of regular grids defining a domain (tile matrix) for a limited list of scales in a Coordinate Reference System (CRS).

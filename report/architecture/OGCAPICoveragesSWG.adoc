@@ -1,3 +1,0 @@
-==== OGC API - Coverages
-
-The OGC API - Coverages specification defines a Web API for accessing coverages that are modeled according to the http://docs.opengeospatial.org/is/09-146r6/09-146r6.html[Coverage Implementation Schema (CIS) 1.1]. Coverages are represented by some binary or ASCII serialization, specified by some data (en­coding) format. Arguably the most popular type of coverage is that of a gridded coverage. Gridded coverages have a grid as their domain set describing the direct positions in multi-dimensional coordinate space, depending on the type of grid. Satellite imagery is typically modeled as a gridded coverage, for example. The OGC API - Coverages specification builds on the Web Coverage Service (WCS) standard.

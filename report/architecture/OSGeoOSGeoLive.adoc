@@ -1,3 +1,0 @@
-==== OSGeo OSGeoLive
-
-OSGeoLive is a self-contained bootable DVD, USB thumb drive or Virtual Machine based on Lubuntu, that allows users to try a wide variety of open source geospatial software without installing anything.

@@ -1,3 +1,0 @@
-==== OSGeo GRASS GIS
-
-The participants https://github.com/OSGeo/grass-addons/pull/439[created] the alpha version of GRASS GIS import modules for the OGC API - Features Standard and the draft OGC API - Coverages specification.

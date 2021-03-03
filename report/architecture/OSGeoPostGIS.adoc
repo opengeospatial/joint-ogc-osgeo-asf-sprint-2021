@@ -1,3 +1,0 @@
-==== OSGeo PostGIS
-
-PostGIS provides spatial objects for the PostgreSQL database, allowing storage and query of information about location and mapping.

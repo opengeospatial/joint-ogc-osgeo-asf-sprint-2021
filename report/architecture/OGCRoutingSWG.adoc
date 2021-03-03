@@ -1,3 +1,0 @@
-==== OGC API - Routes
-
-OGC API - Routes describes the requirements for interoperable web-based route computation and specifies a number of alternative approaches to fulfill these requirements. One of the approaches is based on the current draft of the draft OGC API - Processes - Part 1: Core specification while the other comprises a specialized API although also based on the draft OGC API - Common - Part 1: Core specification. Both approaches facilitate a common Route Exchange Model (REM) that is based on GeoJSON.

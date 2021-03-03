@@ -1,3 +1,0 @@
-==== OGC API - Maps
-
-The draft OGC API - Maps Standard describes an API that presents maps portraying data that has been rendered according to a style. The maps served by implementations of the draft OGC API - Maps standard are retrieved as images of any size, generated on-the-fly, and with the styling determined by the client application. The draft standard can be considered the successor to the widely implemented WMS standard.
